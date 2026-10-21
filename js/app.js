@@ -10,8 +10,9 @@ class AppController {
   constructor() {
     this.wordData = null;
     this.pdfData = null;
+    this.tracNghiemData = null;
     this.allQuestions = [];
-    this.activeTab = 'home'; // 'home', 'word', 'pdf', 'quiz', 'bookmarks'
+    this.activeTab = 'home'; // 'home', 'word', 'pdf', 'tracnghiem', 'quiz', 'bookmarks'
   }
 
   async init() {
@@ -22,6 +23,7 @@ class AppController {
     this.renderDashboard();
     this.renderWordPage();
     this.renderPDFPage();
+    this.renderTracNghiemPage();
     this.bindGlobalEvents();
   }
 
@@ -94,21 +96,24 @@ class AppController {
 
   async loadData() {
     try {
-      const [resWord, resPdf] = await Promise.all([
+      const [resWord, resPdf, resTn] = await Promise.all([
         fetch('data/word_quizzes.json?v=20261021_v2'),
-        fetch('data/pdf_quizzes.json?v=20261021_v2')
+        fetch('data/pdf_quizzes.json?v=20261021_v2'),
+        fetch('data/tracnghiem_quizzes.json?v=20261021_v2')
       ]);
 
       this.wordData = await resWord.json();
       this.pdfData = await resPdf.json();
+      this.tracNghiemData = await resTn.json();
 
       // Collect all questions for global search
       this.allQuestions = [
         ...this.wordData.allQuestions.map(q => ({ ...q, source: 'Word (300 câu)' })),
-        ...this.pdfData.quizzes.flatMap(qz => qz.questions.map(q => ({ ...q, source: `PDF (${qz.chapterTitle})` })))
+        ...this.pdfData.quizzes.flatMap(qz => qz.questions.map(q => ({ ...q, source: `PDF (${qz.chapterTitle})` }))),
+        ...this.tracNghiemData.allQuestions.map(q => ({ ...q, source: 'Trắc Nghiệm KDQT (48 câu)' }))
       ];
 
-      console.log(`Loaded ${this.allQuestions.length} questions successfully!`);
+      console.log(`Loaded ${this.allQuestions.length} questions successfully across 3 sources!`);
     } catch (err) {
       console.error('Failed to load JSON data:', err);
     }
@@ -228,6 +233,16 @@ class AppController {
       quickWordBtn.onclick = () => {
         sound.playClick();
         this.startQuizById(this.wordData.quizzes[0].id, 'practice');
+      };
+    }
+
+    const quickTnBtn = document.getElementById('btn-quick-tracnghiem');
+    if (quickTnBtn) {
+      quickTnBtn.onclick = () => {
+        sound.playClick();
+        if (this.tracNghiemData?.quizzes?.length) {
+          this.startQuizById(this.tracNghiemData.quizzes[0].id, 'practice');
+        }
       };
     }
 
@@ -380,12 +395,88 @@ class AppController {
     });
   }
 
+  renderTracNghiemPage() {
+    const container = document.getElementById('tracnghiem-quizzes-grid');
+    if (!container || !this.tracNghiemData) return;
+
+    container.innerHTML = '';
+    this.tracNghiemData.quizzes.forEach(quiz => {
+      const card = document.createElement('div');
+      card.className = 'quiz-card';
+      card.style.borderLeft = '4px solid var(--accent)';
+      card.innerHTML = `
+        <div>
+          <div class="quiz-card-header">
+            <span class="quiz-tag" style="background: rgba(245, 158, 11, 0.15); color: var(--accent);">Cụm ${quiz.chapterNumber}</span>
+            <span class="quiz-meta-item">📝 ${quiz.questionCount} câu</span>
+          </div>
+          <h3 class="quiz-card-title">${quiz.title}</h3>
+          <p class="quiz-card-desc">${quiz.description}</p>
+        </div>
+        <div>
+          <div class="quiz-card-actions">
+            <button class="btn btn-primary btn-sm btn-block" data-action="practice" data-id="${quiz.id}" style="background: var(--accent); color: #1e1e2d; font-weight: 700;">
+              ▶ Luyện tập
+            </button>
+            <button class="btn btn-secondary btn-sm btn-block" data-action="exam" data-id="${quiz.id}">
+              ⏱ Thi thử
+            </button>
+          </div>
+        </div>
+      `;
+
+      card.querySelector('[data-action="practice"]').addEventListener('click', () => {
+        sound.playClick();
+        this.startQuizById(quiz.id, 'practice');
+      });
+
+      card.querySelector('[data-action="exam"]').addEventListener('click', () => {
+        sound.playClick();
+        this.startQuizById(quiz.id, 'exam');
+      });
+
+      container.appendChild(card);
+    });
+
+    // Button to practice all 48 questions
+    const btnAllTN = document.getElementById('btn-tracnghiem-all-48');
+    if (btnAllTN) {
+      btnAllTN.onclick = () => {
+        sound.playClick();
+        const fullQuiz = {
+          id: 'tracnghiem_all_48',
+          title: 'Toàn Bộ 48 Câu Trắc Nghiệm KDQT Trọng Tâm',
+          questions: this.tracNghiemData.allQuestions
+        };
+        this.openQuizPlayer(fullQuiz, 'practice');
+      };
+    }
+
+    // Button to exam all 48 questions (45 mins)
+    const btnExamTN = document.getElementById('btn-tracnghiem-exam-48');
+    if (btnExamTN) {
+      btnExamTN.onclick = () => {
+        sound.playClick();
+        const examQuiz = {
+          id: 'tracnghiem_exam_48',
+          title: 'Đề Thi Thử 48 Câu Trắc Nghiệm KDQT (45 Phút)',
+          questions: this.tracNghiemData.allQuestions
+        };
+        this.openQuizPlayer(examQuiz, 'exam', 45);
+      };
+    }
+  }
+
   startQuizById(quizId, mode) {
     // Search in word quizzes
     let found = this.wordData?.quizzes.find(q => q.id === quizId);
     if (!found) {
       // Search in pdf quizzes
       found = this.pdfData?.quizzes.find(q => q.id === quizId);
+    }
+    if (!found) {
+      // Search in tracnghiem quizzes
+      found = this.tracNghiemData?.quizzes.find(q => q.id === quizId);
     }
 
     if (found) {
@@ -394,6 +485,11 @@ class AppController {
   }
 
   openQuizPlayer(quizData, mode = 'practice', customMin = null) {
+    if (this.activeTab !== 'quiz') {
+      this.previousTab = this.activeTab;
+    }
+    this.activeTab = 'quiz';
+
     // Hide tabs, show quiz player
     document.querySelectorAll('.tab-view').forEach(v => v.classList.remove('active'));
     const playerView = document.getElementById('view-quiz-player');

@@ -1,0 +1,2158 @@
+{
+  "sourceFile": "Tra_CC_86_CC_81c_20nghie_CC_A3_CC_82m_20KDQT.pdf.pdf",
+  "title": "Bộ Đề Trắc Nghiệm KDQT Trọng Tâm (48 Câu)",
+  "totalQuestions": 48,
+  "totalQuizzes": 5,
+  "chapters": [
+    {
+      "chapterNumber": "3-4",
+      "chapterTitle": "Chương 3 & 4: Chiến Lược Thâm Nhập & Liên Minh Chiến Lược",
+      "description": "Phương thức thâm nhập thị trường, hợp đồng cấp phép, chìa khóa trao tay và liên minh chiến lược.",
+      "questionCount": 10,
+      "quizzes": [
+        {
+          "id": "tn_c34",
+          "chapterNumber": "3-4",
+          "title": "Chương 3 & 4: Chiến Lược Thâm Nhập & Liên Minh Chiến Lược",
+          "description": "Phương thức thâm nhập thị trường, hợp đồng cấp phép, chìa khóa trao tay và liên minh chiến lược.",
+          "questionCount": 10,
+          "questions": [
+            {
+              "id": "tn_c34_1",
+              "num": 1,
+              "question": "Liên minh không góp vốn là hình thức gì?",
+              "options": [
+                "Các bên cùng góp vốn để lập công ty mới.",
+                "Các bên chỉ liên kết bằng sở hữu cổ phần.",
+                "Các bên hợp tác nhưng không góp vốn chung và không lập pháp nhân mới.",
+                "Các bên hợp tác hoàn toàn bằng đầu tư tài chính dài hạn."
+              ],
+              "correctIndex": 2,
+              "correctAnswer": "C",
+              "explanation": "Đáp án chính xác C theo bản chuẩn PDF Trắc nghiệm KDQT."
+            },
+            {
+              "id": "tn_c34_2",
+              "num": 2,
+              "question": "Hợp đồng cấp phép được hiểu là một hình thức gì?",
+              "options": [
+                "Một hình thức mà doanh nghiệp trực tiếp sản xuất hàng hóa tại nước nhà rồi bán sang thị trường nước ngoài thông qua trung gian thương mại.",
+                "Một thỏa thuận cho phép một bên được quyền sử dụng toàn bộ hệ thống kinh doanh, thương hiệu và công thức vận hành để kinh doanh dưới tên của bên giao.",
+                "Một thỏa thuận trong đó người cấp phép trao cho người khác các quyền đối với một tài sản vô hình trong một giai đoạn cụ thể để nhận một khoản phí bản quyền.",
+                "Một hình thức góp vốn thành lập một pháp nhân mới tại thị trường quốc tế nhằm chia sẻ rủi ro và điều hành hoạt động kinh doanh."
+              ],
+              "correctIndex": 2,
+              "correctAnswer": "C",
+              "explanation": "Đáp án chính xác C theo bản chuẩn PDF Trắc nghiệm KDQT."
+            },
+            {
+              "id": "tn_c34_3",
+              "num": 3,
+              "question": "Rủi ro của dự án \"chìa khóa trao tay\" là gì?",
+              "options": [
+                "Mất quyền kiểm soát thương hiệu.",
+                "Tạo đối thủ cạnh tranh tiềm năng.",
+                "Không chuyển giao kỹ năng.",
+                "Thu hồi vốn chậm."
+              ],
+              "correctIndex": 1,
+              "correctAnswer": "B",
+              "explanation": "Đáp án chính xác B theo bản chuẩn PDF Trắc nghiệm KDQT."
+            },
+            {
+              "id": "tn_c34_4",
+              "num": 4,
+              "question": "Sự hấp dẫn của một thị trường đối với doanh nghiệp phụ thuộc vào điều gì?",
+              "options": [
+                "Sự cân bằng giữa lợi ích, chi phí và rủi ro liên quan tới hoạt động kinh doanh tại thị trường đó.",
+                "Khả năng thâm nhập ngành của các doanh nghiệp khác làm tăng mức độ cạnh tranh trong thị trường.",
+                "Khả năng rút khỏi lĩnh vực kinh doanh của một số ngành khác, đặc biệt ảnh hưởng đến cấu trúc và sự ổn định của thị trường.",
+                "Sản phẩm và dịch vụ của doanh nghiệp, bao gồm năng lực sản xuất và phân phối trên thị trường."
+              ],
+              "correctIndex": 0,
+              "correctAnswer": "A",
+              "explanation": "Đáp án chính xác A theo bản chuẩn PDF Trắc nghiệm KDQT."
+            },
+            {
+              "id": "tn_c34_5",
+              "num": 5,
+              "question": "Loại liên minh nào được xây dựng dựa trên cơ sở niềm tin phát triển qua thời gian và là sự nối dài từ những thành công của liên minh tạm thời?",
+              "options": [
+                "Liên minh toàn diện.",
+                "Liên minh góp vốn.",
+                "Liên minh bền vững.",
+                "Liên minh tài chính."
+              ],
+              "correctIndex": 2,
+              "correctAnswer": "C",
+              "explanation": "Đáp án chính xác C theo bản chuẩn PDF Trắc nghiệm KDQT."
+            },
+            {
+              "id": "tn_c34_6",
+              "num": 6,
+              "question": "Bất lợi của doanh nghiệp khi tham gia vào thị trường nước ngoài với tư cách là người đi trước là gì?",
+              "options": [
+                "Chi phí kinh doanh thất bại, chi phí khai thác, bao gồm chi phí quảng cáo, thiết lập việc cung cấp sản phẩm cũng như chi phí hướng dẫn khách hàng.",
+                "Doanh nghiệp bị động trong việc thiết lập giá hoặc không thể tạo dựng được lòng trung thành với thương hiệu từ phía khách hàng.",
+                "Bộ máy quản lý bị phình to, quá tải do doanh nghiệp phải vận hành nhiều nhà máy sản xuất quy mô lớn tại nước sở tại.",
+                "Chu kỳ sống của sản phẩm bị rút ngắn đáng kể do doanh nghiệp không kịp thay đổi công nghệ để bắt kịp thị hiếu của thị trường."
+              ],
+              "correctIndex": 0,
+              "correctAnswer": "A",
+              "explanation": "Đáp án chính xác A theo bản chuẩn PDF Trắc nghiệm KDQT."
+            },
+            {
+              "id": "tn_c34_7",
+              "num": 7,
+              "question": "Đâu không phải là một sự đánh đổi mà doanh nghiệp phải đối mặt khi lựa chọn phương thức gia nhập thị trường quốc tế?",
+              "options": [
+                "Mức độ kiểm soát cao đòi hỏi cam kết nguồn lực lớn từ công ty mẹ.",
+                "Doanh nghiệp trở nên kém linh hoạt hơn trong việc tái định hình các hoạt động khi đã gắn bó lâu dài với thị trường nước ngoài.",
+                "Tham gia lâu dài phải chịu rủi ro từ môi trường chính trị và người tiêu dùng không ổn định.",
+                "Phương thức có mức kiểm soát cao giúp doanh nghiệp tránh được rủi ro từ môi trường nước ngoài."
+              ],
+              "correctIndex": 3,
+              "correctAnswer": "D",
+              "explanation": "Đáp án chính xác D theo bản chuẩn PDF Trắc nghiệm KDQT."
+            },
+            {
+              "id": "tn_c34_8",
+              "num": 8,
+              "question": "Nếu năng lực cốt lõi là …… thì nên tránh các thỏa thuận cấp phép, nhượng quyền thương mại hoặc liên doanh, trừ khi có cơ chế ràng buộc hoặc lợi thế đó chỉ mang tính tạm thời. Chỗ trống đó là gì?",
+              "options": [
+                "Bí quyết quản lý.",
+                "Bí quyết công nghệ.",
+                "Bí quyết sản xuất và vận hành.",
+                "Bí quyết xây dựng thương hiệu."
+              ],
+              "correctIndex": 1,
+              "correctAnswer": "B",
+              "explanation": "Đáp án chính xác B theo bản chuẩn PDF Trắc nghiệm KDQT."
+            },
+            {
+              "id": "tn_c34_9",
+              "num": 9,
+              "question": "Chi phí đi tiên phong là một bất lợi của người đi trước nhưng có thể mang lại lợi ích gì cho người đi sau?",
+              "options": [
+                "Giúp người đi sau tăng chi phí quảng cáo và thiết lập sản phẩm.",
+                "Giúp người đi sau thuận lợi từ việc quan sát và học hỏi.",
+                "Giúp người đi sau chiếm lĩnh toàn bộ chi phí tiền gửi của khách hàng.",
+                "Giúp người đi sau của công ty mẹ phải là người thương mại toàn diện."
+              ],
+              "correctIndex": 1,
+              "correctAnswer": "B",
+              "explanation": "Đáp án chính xác B theo bản chuẩn PDF Trắc nghiệm KDQT."
+            },
+            {
+              "id": "tn_c34_10",
+              "num": 10,
+              "question": "Đâu là mối lo ngại lớn nhất khi doanh nghiệp quyết định tham gia vào một liên minh chiến lược?",
+              "options": [
+                "Liên minh chiến lược sẽ làm gia tăng các thủ tục hành chính phức tạp và kéo dài thời gian ra quyết định của ban điều hành.",
+                "Liên minh chiến lược sẽ dẫn đến sự bất đồng ngôn ngữ và xung đột sâu sắc về văn hóa doanh nghiệp giữa các quốc gia.",
+                "Liên minh chiến lược sẽ đòi hỏi một nguồn ngân sách đầu tư ban đầu quá lớn, vượt quá khả năng tài chính của các bên.",
+                "Liên minh chiến lược giúp cho các đối thủ có một con đường ít tốn kém để tiếp cận với thị trường và công nghệ mới."
+              ],
+              "correctIndex": 3,
+              "correctAnswer": "D",
+              "explanation": "Đáp án chính xác D theo bản chuẩn PDF Trắc nghiệm KDQT."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapterNumber": "5-6",
+      "chapterTitle": "Chương 5 & 6: Cấu Trúc Tổ Chức & Marketing Toàn Cầu",
+      "description": "Cơ cấu dọc, mạng lưới tri thức, kênh phân phối, hiệu ứng nguồn và chiến lược định giá.",
+      "questionCount": 8,
+      "quizzes": [
+        {
+          "id": "tn_c56",
+          "chapterNumber": "5-6",
+          "title": "Chương 5 & 6: Cấu Trúc Tổ Chức & Marketing Toàn Cầu",
+          "description": "Cơ cấu dọc, mạng lưới tri thức, kênh phân phối, hiệu ứng nguồn và chiến lược định giá.",
+          "questionCount": 8,
+          "questions": [
+            {
+              "id": "tn_c56_1",
+              "num": 1,
+              "question": "Cơ cấu dọc trong cơ cấu tổ chức đề cập đến việc gì?",
+              "options": [
+                "Sự phân chia chính thức của các bộ phận trong tổ chức.",
+                "Mối quan hệ giữa bộ phận quốc tế và bộ phận nội địa.",
+                "Vị trí của hệ thống trách nhiệm ra quyết định trong tổ chức.",
+                "Các cơ chế tích hợp để phối hợp các hoạt động chức năng."
+              ],
+              "correctIndex": 2,
+              "correctAnswer": "C",
+              "explanation": "Đáp án chính xác C theo bản chuẩn PDF Trắc nghiệm KDQT."
+            },
+            {
+              "id": "tn_c56_2",
+              "num": 2,
+              "question": "Tâm điểm chính của cơ chế phối hợp phi chính thức là gì?",
+              "options": [
+                "Các ủy ban theo khu vực địa lý.",
+                "Mạng lưới tri thức.",
+                "Cấu trúc ma trận cứng nhắc.",
+                "Hệ thống văn bản quy định pháp lý."
+              ],
+              "correctIndex": 1,
+              "correctAnswer": "B",
+              "explanation": "Đáp án chính xác B theo bản chuẩn PDF Trắc nghiệm KDQT."
+            },
+            {
+              "id": "tn_c56_3",
+              "num": 3,
+              "question": "Trong bối cảnh toàn cầu hóa kinh tế, có hai áp lực tồn tại song song là áp lực giảm chi phí và áp lực thích nghi địa phương, các doanh nghiệp đa quốc gia có xu hướng sử dụng chiến lược xuyên quốc gia. Khi đó họ phải đồng thời tập trung vào việc khai thác hiệu ứng kinh nghiệm và lợi thế địa điểm, cùng lúc với thích nghi địa phương cũng như chuyển giao nội bộ các năng lực cốt lõi. Vì vậy doanh nghiệp nên sử dụng cấu trúc tổ chức nào sau đây cho phù hợp?",
+              "options": [
+                "Cấu trúc ma trận toàn cầu.",
+                "Cấu trúc sản phẩm toàn cầu.",
+                "Cấu trúc bộ phận quốc tế.",
+                "Cấu trúc khu vực toàn cầu."
+              ],
+              "correctIndex": 0,
+              "correctAnswer": "A",
+              "explanation": "Đáp án chính xác A theo bản chuẩn PDF Trắc nghiệm KDQT."
+            },
+            {
+              "id": "tn_c56_4",
+              "num": 4,
+              "question": "Trong mối quan hệ giữa các chiến lược kinh doanh quốc tế, nhu cầu phối hợp giữa các đơn vị trong tổ chức được sắp xếp theo thứ tự tăng dần như thế nào?",
+              "options": [
+                "Quốc tế – Địa phương hóa – Tiêu chuẩn hóa toàn cầu – Xuyên quốc gia.",
+                "Địa phương hóa – Quốc tế – Tiêu chuẩn hóa toàn cầu – Xuyên quốc gia.",
+                "Tiêu chuẩn hóa toàn cầu – Quốc tế – Địa phương hóa – Xuyên quốc gia.",
+                "Xuyên quốc gia – Tiêu chuẩn hóa toàn cầu – Quốc tế – Địa phương hóa."
+              ],
+              "correctIndex": 1,
+              "correctAnswer": "B",
+              "explanation": "Đáp án chính xác B theo bản chuẩn PDF Trắc nghiệm KDQT."
+            },
+            {
+              "id": "tn_c56_5",
+              "num": 5,
+              "question": "Trong hệ thống phân phối, mối quan hệ giữa mức độ tập trung của ngành bán lẻ và chiều dài kênh thường là:",
+              "options": [
+                "Hệ thống bán lẻ càng tập trung vào doanh nghiệp lớn thì kênh phân phối càng dài.",
+                "Không có mối liên hệ nào giữa sự tập trung bán lẻ và chiều dài kênh.",
+                "Hệ thống bán lẻ phân mảnh giúp rút ngắn chiều dài kênh.",
+                "Hệ thống bán lẻ càng tập trung thì kênh phân phối có xu hướng càng ngắn."
+              ],
+              "correctIndex": 3,
+              "correctAnswer": "D",
+              "explanation": "Đáp án chính xác D theo bản chuẩn PDF Trắc nghiệm KDQT."
+            },
+            {
+              "id": "tn_c56_6",
+              "num": 6,
+              "question": "Hiệu ứng nguồn ảnh hưởng đến tín hiệu truyền thông quốc tế như thế nào?",
+              "options": [
+                "Gia tăng mức độ nhiễu của thông điệp quảng cáo trong quá trình truyền khiến người nhận không thể tiếp nhận đúng nội dung người gửi muốn truyền đạt",
+                "Khách hàng đánh giá thông điệp dựa trên hình ảnh hoặc địa vị của người gửi thông điệp",
+                "Gây hiểu nhầm về văn hóa trong chiến dịch truyền thông quốc tế",
+                "Giảm đáng kể chi phí thuê của các đại lý quảng cáo địa phương"
+              ],
+              "correctIndex": 1,
+              "correctAnswer": "B",
+              "explanation": "Đáp án chính xác B theo bản chuẩn PDF Trắc nghiệm KDQT."
+            },
+            {
+              "id": "tn_c56_7",
+              "num": 7,
+              "question": "Việc định giá theo đường cong kinh nghiệm có thể khiến doanh nghiệp gặp rủi ro pháp lý nào?",
+              "options": [
+                "Bị cáo buộc vi phạm quy định chống bán phá giá vì đặt mức giá thấp hơn chi phí sản xuất hiện tại",
+                "Vi phạm luật bảo hộ quyền sở hữu trí tuệ của nước sở tại do những khác biệt trong hệ thống pháp luật và cách thức đăng ký bảo vệ quyền",
+                "Bị đánh thuế tiêu thụ đặc biệt do sản lượng bán ra quá lớn gây ảnh hưởng đến thị trường nội địa của quốc gia nhập khẩu",
+                "Không thể áp dụng chiến lược phân biệt giá tại các thị trường khác"
+              ],
+              "correctIndex": 0,
+              "correctAnswer": "A",
+              "explanation": "Đáp án chính xác A theo bản chuẩn PDF Trắc nghiệm KDQT."
+            },
+            {
+              "id": "tn_c56_8",
+              "num": 8,
+              "question": "Điểm khác biệt cốt lõi giữa định giá cướp đoạt và định giá đa điểm là gì?",
+              "options": [
+                "Định giá cướp đoạt nhắm vào lợi ích dài hạn, còn định giá đa điểm nhắm vào lợi nhuận ngắn hạn",
+                "Định giá cướp đoạt dùng giá để loại bỏ đối thủ cạnh tranh, còn định giá đa điểm là sự phản ứng về giá tại thị trường này dựa trên hành động của đối thủ tại thị trường khác",
+                "Định giá cướp đoạt chỉ áp dụng cho doanh nghiệp lớn, còn định giá đa điểm áp dụng cho mọi ngành nghề",
+                "Định giá cướp đoạt vi phạm luật chống bán phá giá, còn định giá đa điểm thì không"
+              ],
+              "correctIndex": 1,
+              "correctAnswer": "B",
+              "explanation": "Đáp án chính xác B theo bản chuẩn PDF Trắc nghiệm KDQT."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapterNumber": "7",
+      "chapterTitle": "Chương 7: Sản Xuất & Quản Trị Chuỗi Cung Ứng Toàn Cầu",
+      "description": "Công nghệ sản xuất linh hoạt, EDI, tài sản chuyên biệt, JIT và nhà máy thông minh 4.0.",
+      "questionCount": 10,
+      "quizzes": [
+        {
+          "id": "tn_c7",
+          "chapterNumber": "7",
+          "title": "Chương 7: Sản Xuất & Quản Trị Chuỗi Cung Ứng Toàn Cầu",
+          "description": "Công nghệ sản xuất linh hoạt, EDI, tài sản chuyên biệt, JIT và nhà máy thông minh 4.0.",
+          "questionCount": 10,
+          "questions": [
+            {
+              "id": "tn_c7_1",
+              "num": 1,
+              "question": "Khi quyết định địa điểm sản xuất dựa trên yếu tố công nghệ, nếu mức chi phí cố định của một nhà máy sản xuất rất cao, doanh nghiệp nên ưu tiên chiến lược nào?",
+              "options": [
+                "Sản xuất tập trung tại một hoặc một số ít cơ sở để phục vụ thị trường toàn cầu",
+                "Sản xuất phân tán tại nhiều quốc gia để đáp ứng nhu cầu địa phương",
+                "Thuê ngoài toàn bộ quá trình sản xuất ở các nước đang phát triển",
+                "Xây dựng nhà máy tại tất cả thị trường mà công ty có mặt"
+              ],
+              "correctIndex": 0,
+              "correctAnswer": "A",
+              "explanation": "Đáp án chính xác A theo bản chuẩn PDF Trắc nghiệm KDQT."
+            },
+            {
+              "id": "tn_c7_2",
+              "num": 2,
+              "question": "Lợi thế nào của việc áp dụng hệ thống trao đổi dữ liệu điện tử (EDI) trong quản trị chuỗi cung ứng?",
+              "options": [
+                "Tất cả các đối tượng tham gia chuỗi có thể liên lạc ngay lập tức, linh hoạt và xử lý kịp thời các vấn đề phát sinh",
+                "Loại bỏ hoàn toàn sự cần thiết phải cung cấp trung gian trong chuỗi cung ứng, giúp doanh nghiệp có thể kiểm soát trực tiếp toàn bộ hoạt động phân phối và sản xuất",
+                "Buộc khách hàng và các đối tác trong chuỗi phải tự quản lý toàn bộ lượng hàng tồn kho của mình",
+                "Đảm bảo tỷ giá hối đoái giữa các quốc gia luôn duy trì ở mức ổn định"
+              ],
+              "correctIndex": 0,
+              "correctAnswer": "A",
+              "explanation": "Đáp án chính xác A theo bản chuẩn PDF Trắc nghiệm KDQT."
+            },
+            {
+              "id": "tn_c7_3",
+              "num": 3,
+              "question": "Trong quá trình dịch vụ quốc tế, hoạch định nào đề cập đến việc quyết định công ty sẽ phục vụ bao nhiêu khách hàng tại một thời điểm hay giai đoạn nhất định?",
+              "options": [
+                "Hoạch định công suất",
+                "Hoạch định địa điểm",
+                "Thiết kế cơ sở sản xuất",
+                "Lên lịch hoạt động"
+              ],
+              "correctIndex": 0,
+              "correctAnswer": "A",
+              "explanation": "Đáp án chính xác A theo bản chuẩn PDF Trắc nghiệm KDQT."
+            },
+            {
+              "id": "tn_c7_4",
+              "num": 4,
+              "question": "Vì sao tài sản chuyên biệt hóa cao khiến doanh nghiệp thường có xu hướng tự sản xuất nhiều hơn?",
+              "options": [
+                "Việc đầu tư vào tài sản mang tính chuyên biệt cao thường đi kèm với nguy cơ rò rỉ công nghệ, tri thức cốt lõi khiến doanh nghiệp phải đối mặt với rủi ro mất lợi thế cạnh tranh trong dài hạn",
+                "Tài sản chuyên biệt hóa sinh ra sự phụ thuộc lẫn nhau, tạo ra tâm lý thiếu tin tưởng, lo sợ bị mất lợi thế thương lượng, bị ép giá hoặc rơi vào bế tắc kinh doanh từ cả hai phía",
+                "Môi trường pháp lý tại quốc gia sở tại thường đặt ra các rào cản, quy định hạn chế việc chia sẻ quyền sở hữu tài sản quan trọng",
+                "Việc đầu tư vào tài sản chuyên biệt hóa thường đòi hỏi chi phí ban đầu rất lớn, kéo theo áp lực tài chính đáng kể khiến doanh nghiệp có xu hướng muốn kiểm soát trực tiếp quá trình vận hành để đảm bảo hiệu quả sử dụng vốn"
+              ],
+              "correctIndex": 1,
+              "correctAnswer": "B",
+              "explanation": "Đáp án chính xác B theo bản chuẩn PDF Trắc nghiệm KDQT."
+            },
+            {
+              "id": "tn_c7_5",
+              "num": 5,
+              "question": "Vì sao công nghệ sản xuất linh hoạt giúp doanh nghiệp giải quyết sự đánh đổi giữa chi phí và tính đa dạng hóa sản phẩm?",
+              "options": [
+                "Vì cho phép sản xuất sản phẩm đa dạng ở mức chi phí đơn vị trước đây chỉ đạt được bằng sản xuất hàng loạt mang tính tiêu chuẩn hóa",
+                "Vì buộc doanh nghiệp phải đồng nhất hóa toàn bộ quy trình sản xuất duy nhất",
+                "Vì làm tăng thời gian thiết lập máy móc để tập trung vào chất lượng",
+                "Vì loại bỏ hoàn toàn nhu cầu cải tiến, kiểm soát chất lượng"
+              ],
+              "correctIndex": 0,
+              "correctAnswer": "A",
+              "explanation": "Đáp án chính xác A theo bản chuẩn PDF Trắc nghiệm KDQT."
+            },
+            {
+              "id": "tn_c7_6",
+              "num": 6,
+              "question": "Lý do cốt lõi nào khiến việc thuê ngoài có thể giúp giảm chi phí trong bối cảnh cấu trúc tổ chức phức tạp?",
+              "options": [
+                "Thuê ngoài giúp doanh nghiệp biến đổi một phần chi phí cố định sang chi phí biến đổi, từ đó tăng tính linh hoạt tài chính và dễ dàng điều chỉnh theo biến động nhu cầu thị trường",
+                "Việc tự sản xuất làm tăng độ phức tạp của cơ cấu tổ chức, đồng thời các nhà cung cấp nội bộ thường thiếu sức ép cạnh tranh nên không có động lực để cắt giảm chi phí",
+                "Thuê ngoài cho phép doanh nghiệp tập trung nguồn lực vào năng lực cốt lõi, giảm sự phân tán trong quản lý, từ đó gián tiếp nâng cao hiệu quả hoạt động",
+                "Các nhà cung cấp quy mô lớn có mức độ chuyên môn hóa cao, quy trình chuẩn hóa giúp tối ưu hóa chi phí tốt hơn"
+              ],
+              "correctIndex": 1,
+              "correctAnswer": "B",
+              "explanation": "Đáp án chính xác B theo bản chuẩn PDF Trắc nghiệm KDQT."
+            },
+            {
+              "id": "tn_c7_7",
+              "num": 7,
+              "question": "Khi một doanh nghiệp quốc tế theo đuổi đồng thời hai mục tiêu là vừa giảm chi phí, vừa nâng cao chất lượng thì doanh nghiệp nên làm gì?",
+              "options": [
+                "Chấp nhận sự đánh đổi tức thời vì tăng chất lượng thường làm chi phí tăng và không thể giảm chi phí trong ngắn hạn",
+                "Không nên xem đây là sự đánh đổi tức thời, vì việc cải tiến kiểm soát chất lượng có thể làm tăng năng suất, giảm sản phẩm lỗi, giảm chi phí bảo hành và vận hành",
+                "Doanh nghiệp chỉ có thể giảm chi phí bằng cách bỏ qua một số khâu kiểm soát chất lượng",
+                "Doanh nghiệp nên tăng cường việc thuê ngoài để dễ dàng phân tán rủi ro trong quá trình sản xuất"
+              ],
+              "correctIndex": 1,
+              "correctAnswer": "B",
+              "explanation": "Đáp án chính xác B theo bản chuẩn PDF Trắc nghiệm KDQT."
+            },
+            {
+              "id": "tn_c7_8",
+              "num": 8,
+              "question": "Doanh nghiệp áp dụng Just-in-Time (JIT) triệt để và gần như không có hàng tồn kho an toàn. Khi nhà cung ứng bị gián đoạn do thiên tai, toàn bộ dây chuyền bị ngưng trệ. Nhận định nào sau đây là đúng?",
+              "options": [
+                "Đây là rủi ro của Just-in-Time vì một xáo trộn nhỏ trong chuỗi cung ứng nguyên vật liệu sẽ làm ảnh hưởng khiến toàn bộ chuỗi cung ứng bị bế tắc",
+                "Đây là ưu điểm của Just-in-Time vì không duy trì hàng tồn kho an toàn giúp doanh nghiệp phản ứng nhanh hơn trước biến động của nhà cung cấp và thị trường",
+                "Đây là lỗi của bộ phận marketing vì việc dây chuyền sản xuất bị ngưng trệ xuất phát từ việc dự báo nhu cầu không chuẩn xác",
+                "Đây là bằng chứng cho thấy Just-in-Time luôn phù hợp với mọi điều kiện vì không cần điều chỉnh quy trình hậu cần"
+              ],
+              "correctIndex": 0,
+              "correctAnswer": "A",
+              "explanation": "Đáp án chính xác A theo bản chuẩn PDF Trắc nghiệm KDQT."
+            },
+            {
+              "id": "tn_c7_9",
+              "num": 9,
+              "question": "Một quốc gia từng là nơi sản xuất có chi phí thấp, nhưng sau đó tiền tệ tăng giá và chi phí nhân công tăng. Nhận định nào sau đây là đúng?",
+              "options": [
+                "Quốc gia đó có thể trở nên kém hấp dẫn hơn vì sự tăng giá của tiền tệ và chi phí lao động sẽ làm tăng chi phí sản xuất",
+                "Nơi đó chắc chắn sẽ hấp dẫn hơn vì tiền tệ tăng luôn làm cho chi phí sản xuất giảm",
+                "Doanh nghiệp không cần quan tâm tới tỷ giá vì tỷ giá không ảnh hưởng tới lựa chọn địa điểm sản xuất",
+                "Doanh nghiệp chỉ cần xem xét văn hóa tiêu dùng, không cần xem xét chi phí nhân công"
+              ],
+              "correctIndex": 0,
+              "correctAnswer": "A",
+              "explanation": "Đáp án chính xác A theo bản chuẩn PDF Trắc nghiệm KDQT."
+            },
+            {
+              "id": "tn_c7_10",
+              "num": 10,
+              "question": "Điểm khác biệt căn bản biến một nhà máy tự động hóa thông thường thành nhà máy thông minh trong thời đại công nghệ 4.0 là gì?",
+              "options": [
+                "Nhà máy thông minh ứng dụng các hệ thống trao đổi dữ liệu điện tử và tự động hóa quy trình chứng từ, giúp tăng tính lưu chuyển thông tin và giảm sai sót trong vận hành",
+                "Các máy móc, thiết bị có thể tự giao tiếp, ra quyết định thông minh với nhau qua điện toán đám mây; con người đóng vai trò hỗ trợ, điều hành quá trình sản xuất",
+                "Đảm bảo tính ổn định của hệ thống; nhà máy thông minh giới hạn việc thu thập và xử lý dữ liệu ở mức cần thiết, tránh phụ thuộc vào mạng internet",
+                "Nhà máy thông minh tích hợp hệ thống hoạch định nguồn nhân lực doanh nghiệp (ERP) ở mức cao, cho phép quản lý chung toàn bộ dữ liệu sản xuất và vận hành thông qua một nền tảng web thống nhất"
+              ],
+              "correctIndex": 1,
+              "correctAnswer": "B",
+              "explanation": "Đáp án chính xác B theo bản chuẩn PDF Trắc nghiệm KDQT."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapterNumber": "8",
+      "chapterTitle": "Chương 8: Quản Trị Nhân Lực Quốc Tế",
+      "description": "Chính sách nhân sự vị chủng, đa tâm, năng lực nhận thức chuyên gia và quan hệ lao động.",
+      "questionCount": 10,
+      "quizzes": [
+        {
+          "id": "tn_c8",
+          "chapterNumber": "8",
+          "title": "Chương 8: Quản Trị Nhân Lực Quốc Tế",
+          "description": "Chính sách nhân sự vị chủng, đa tâm, năng lực nhận thức chuyên gia và quan hệ lao động.",
+          "questionCount": 10,
+          "questions": [
+            {
+              "id": "tn_c8_1",
+              "num": 1,
+              "question": "Khác biệt nào giữa các quốc gia làm cho hoạt động quản trị nhân lực quốc tế trở nên phức tạp?",
+              "options": [
+                "Sự khác biệt về thị trường lao động, văn hóa, hệ thống pháp lý, hệ thống kinh tế và các yếu tố khác.",
+                "Sự khác biệt về trình độ công nghệ thông tin, phần mềm quản lý nhân sự giữa các vùng lãnh thổ.",
+                "Sự khác biệt về chiến lược kinh doanh, mô hình cấu trúc của các tập đoàn đa quốc gia.",
+                "Sự khác biệt về tiêu chuẩn tuyển dụng, chính sách đãi ngộ dành cho nhân sự tại văn phòng đại diện."
+              ],
+              "correctIndex": 0,
+              "correctAnswer": "A",
+              "explanation": "Đáp án chính xác A theo bản chuẩn PDF Trắc nghiệm KDQT."
+            },
+            {
+              "id": "tn_c8_2",
+              "num": 2,
+              "question": "Các hoạt động nào về quản trị nhân lực sẽ trở nên phức tạp đối với một doanh nghiệp đa quốc gia?",
+              "options": [
+                "Đăng ký sở hữu trí tuệ, bảo hộ thương hiệu, kiểm toán tài chính.",
+                "Nghiên cứu thị trường, quảng cáo, thiết kế bao bì.",
+                "Quản trị chuỗi cung ứng, vận chuyển hàng hóa, lưu kho bãi.",
+                "Tuyển dụng nhân sự, phát triển quản lý, năng lực, lương bổng."
+              ],
+              "correctIndex": 3,
+              "correctAnswer": "D",
+              "explanation": "Đáp án chính xác D theo bản chuẩn PDF Trắc nghiệm KDQT."
+            },
+            {
+              "id": "tn_c8_3",
+              "num": 3,
+              "question": "Để khắc phục sự thiếu hụt về cán bộ quản lý có trình độ cao ở các nước đang phát triển, doanh nghiệp ở các nước phát triển nên làm gì khi đặt chi nhánh tại các nước đang phát triển?",
+              "options": [
+                "Tuyển dụng quản lý từ thị trường lao động địa phương.",
+                "Bổ nhiệm quản lý dựa trên thâm niên làm việc.",
+                "Áp dụng chương trình đào tạo chung cho các chi nhánh.",
+                "Áp dụng chính sách vị chủng."
+              ],
+              "correctIndex": 3,
+              "correctAnswer": "D",
+              "explanation": "Đáp án chính xác D theo bản chuẩn PDF Trắc nghiệm KDQT."
+            },
+            {
+              "id": "tn_c8_4",
+              "num": 4,
+              "question": "Khả năng nhận thức trong tuyển chọn chuyên gia có nghĩa là gì?",
+              "options": [
+                "Khả năng nói nhiều ngoại ngữ.",
+                "Khả năng giải quyết các bài toán kỹ thuật.",
+                "Sự thấu cảm và hiểu các hành vi văn hóa khác biệt.",
+                "Nhận biết được các đối thủ cạnh tranh."
+              ],
+              "correctIndex": 2,
+              "correctAnswer": "C",
+              "explanation": "Đáp án chính xác C theo bản chuẩn PDF Trắc nghiệm KDQT."
+            },
+            {
+              "id": "tn_c8_5",
+              "num": 5,
+              "question": "Mối e ngại lớn nhất của công đoàn về các công ty đa quốc gia là gì?",
+              "options": [
+                "Công ty đa quốc gia có cơ cấu tổ chức phức tạp nên khó xác định rõ trách nhiệm của từng cấp quản lý.",
+                "Công ty sử dụng nhiều tiêu chuẩn quản trị và quy định nội bộ khác nhau giữa các quốc gia và chi nhánh.",
+                "Công ty thường có các quyết định quan trọng từ trụ sở nước ngoài thay vì chi nhánh địa phương.",
+                "Công ty có thể đe dọa chuyển dịch sản xuất sang nước khác để hạn chế sức mạnh đàm phán của công đoàn."
+              ],
+              "correctIndex": 3,
+              "correctAnswer": "D",
+              "explanation": "Đáp án chính xác D theo bản chuẩn PDF Trắc nghiệm KDQT."
+            },
+            {
+              "id": "tn_c8_6",
+              "num": 6,
+              "question": "Chính sách đa tâm sẽ phù hợp nhất với chiến lược nào?",
+              "options": [
+                "Chiến lược tiêu chuẩn hóa toàn cầu.",
+                "Chiến lược quốc tế.",
+                "Chiến lược địa phương hóa.",
+                "Chiến lược xuyên quốc gia."
+              ],
+              "correctIndex": 2,
+              "correctAnswer": "C",
+              "explanation": "Đáp án chính xác C theo bản chuẩn PDF Trắc nghiệm KDQT."
+            },
+            {
+              "id": "tn_c8_7",
+              "num": 7,
+              "question": "Sự thiển cận về văn hóa có thể gây ra hậu quả gì đối với doanh nghiệp đa quốc gia?",
+              "options": [
+                "Có thể dẫn đến sai lầm trong marketing và quản lý, nguy cơ thất bại cho công ty, nhà quản lý có thể mắc sai lầm lớn trong thời gian thích nghi.",
+                "Có thể khiến cho doanh nghiệp phải dành nhiều thời gian, nhiều nguồn lực hơn cho việc xây dựng chương trình đào tạo do văn hóa giữa các chi nhánh ở những quốc gia khác nhau.",
+                "Có thể làm nhà quản lý tập trung nhiều hơn vào việc áp dụng các quy trình quản trị quen thuộc của công ty mẹ trong hoạt động quốc tế.",
+                "Có thể khiến doanh nghiệp ưu tiên duy trì các chính sách và phương thức quản lý đã được áp dụng tại trụ sở chính khi triển khai hoạt động ở nước ngoài."
+              ],
+              "correctIndex": 0,
+              "correctAnswer": "A",
+              "explanation": "Đáp án chính xác A theo bản chuẩn PDF Trắc nghiệm KDQT."
+            },
+            {
+              "id": "tn_c8_8",
+              "num": 8,
+              "question": "Khi doanh nghiệp giao chi nhánh nước ngoài cho nhà quản trị địa phương thì có thể dẫn đến rủi ro gì?",
+              "options": [
+                "Các nhà quản trị địa phương thường đưa ra quyết định dựa trên sự hiểu biết về thị trường và môi trường kinh doanh tại nước sở tại.",
+                "Các nhà quản trị địa phương có xu hướng điều chỉnh hoạt động kinh doanh để phù hợp hơn với nhu cầu của thị trường, khách hàng địa phương và đặc điểm cạnh tranh tại nước sở tại.",
+                "Chi nhánh nước ngoài có thể áp dụng các phương thức quản lý và vận hành phù hợp với bối cảnh kinh tế, xã hội và môi trường kinh doanh của quốc gia sở tại.",
+                "Chi nhánh nước ngoài có thể trở thành một đơn vị kinh doanh độc lập với các chi nhánh nước ngoài khác, thậm chí công ty mẹ có thể bị cô lập với công ty con ở địa phương."
+              ],
+              "correctIndex": 3,
+              "correctAnswer": "D",
+              "explanation": "Đáp án chính xác D theo bản chuẩn PDF Trắc nghiệm KDQT."
+            },
+            {
+              "id": "tn_c8_9",
+              "num": 9,
+              "question": "Tại sao trước đây hầu hết quan hệ lao động quốc tế thường được phi tập trung hóa cho các chi nhánh ở các nước?",
+              "options": [
+                "Vì các chi nhánh ở từng quốc gia thường có điều kiện thị trường, văn hóa kinh doanh và nhu cầu nhân lực khác nhau.",
+                "Vì luật lao động, quyền lực công đoàn và bản chất của đàm phán tập thể thay đổi rõ rệt từ quốc gia này sang quốc gia khác.",
+                "Vì các chi nhánh ở từng quốc gia thường được trao quyền chủ động trong việc quản lý các vấn đề nhân sự.",
+                "Các doanh nghiệp quốc tế muốn tăng tính linh hoạt trong việc xây dựng chính sách lương, thưởng và phúc lợi."
+              ],
+              "correctIndex": 1,
+              "correctAnswer": "B",
+              "explanation": "Đáp án chính xác B theo bản chuẩn PDF Trắc nghiệm KDQT."
+            },
+            {
+              "id": "tn_c8_10",
+              "num": 10,
+              "question": "Sai lầm nào của doanh nghiệp trong khâu tuyển chọn dẫn đến thất bại điều động?",
+              "options": [
+                "Doanh nghiệp chỉ tập trung vào việc tuyển dụng những người biết ngoại ngữ từ nhỏ.",
+                "Trả mức thù lao quá chênh lệch giữa các quốc gia.",
+                "Đánh giá năng lực nội địa và nước ngoài như nhau, nhưng thực chất thì không.",
+                "Không hỏi ý kiến của tổ chức công đoàn trước khi điều động."
+              ],
+              "correctIndex": 2,
+              "correctAnswer": "C",
+              "explanation": "Đáp án chính xác C theo bản chuẩn PDF Trắc nghiệm KDQT."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapterNumber": "9",
+      "chapterTitle": "Chương 9: Quản Trị Tài Chính Quốc Tế",
+      "description": "Chuyển giá, nợ vay trước (Fronting loans), quản trị rủi ro hối đoái và chính sách cổ tức.",
+      "questionCount": 10,
+      "quizzes": [
+        {
+          "id": "tn_c9",
+          "chapterNumber": "9",
+          "title": "Chương 9: Quản Trị Tài Chính Quốc Tế",
+          "description": "Chuyển giá, nợ vay trước (Fronting loans), quản trị rủi ro hối đoái và chính sách cổ tức.",
+          "questionCount": 10,
+          "questions": [
+            {
+              "id": "tn_c9_1",
+              "num": 1,
+              "question": "Nhóm quyết định liên quan đến quản trị tài chính quốc tế là:",
+              "options": [
+                "Đầu tư, tài chính và quản lý tiền tệ.",
+                "Đầu tư, tài trợ và quản trị rủi ro tài chính.",
+                "Đầu tư, huy động vốn và quản lý tiền tệ.",
+                "Đầu tư, tài trợ và quản lý nguồn vốn lưu động toàn cầu."
+              ],
+              "correctIndex": 0,
+              "correctAnswer": "A",
+              "explanation": "Đáp án chính xác A theo bản chuẩn PDF Trắc nghiệm KDQT."
+            },
+            {
+              "id": "tn_c9_2",
+              "num": 2,
+              "question": "Trong kinh doanh quốc tế, các quyết định đầu tư, tài chính và quản lý tiền tệ thường:",
+              "options": [
+                "Phức tạp do sự khác biệt về tiền tệ, thuế, quy định dòng tiền và rủi ro kinh tế - chính trị.",
+                "Ít chịu ảnh hưởng bởi hệ thống thuế, tỷ giá hối đoái và quy định tài chính.",
+                "Chỉ liên quan tới hoạt động mang tính quốc tế, vì quyết định tài chính không ảnh hưởng đáng kể đến đầu tư, sản xuất và dòng tiền của doanh nghiệp.",
+                "Đơn giản hơn so với kinh doanh nội địa vì các quốc gia sử dụng chung một hệ thống tiền tệ và có chính sách tài chính hẹp."
+              ],
+              "correctIndex": 0,
+              "correctAnswer": "A",
+              "explanation": "Đáp án chính xác A theo bản chuẩn PDF Trắc nghiệm KDQT."
+            },
+            {
+              "id": "tn_c9_3",
+              "num": 3,
+              "question": "Khi hàng hóa và dịch vụ được chuyển giao giữa công ty mẹ và các chi nhánh nước ngoài, thì doanh nghiệp nên sử dụng kỹ thuật chuyển tiền nào?",
+              "options": [
+                "Chuyển giá.",
+                "Chuyển trả cổ tức.",
+                "Thanh toán phí bản quyền và lệ phí.",
+                "Sử dụng cơ chế thanh toán nội bộ không chính thức."
+              ],
+              "correctIndex": 0,
+              "correctAnswer": "A",
+              "explanation": "Đáp án chính xác A theo bản chuẩn PDF Trắc nghiệm KDQT."
+            },
+            {
+              "id": "tn_c9_4",
+              "num": 4,
+              "question": "Kỹ thuật chuyển tiền bằng cách để công ty mẹ ký quỹ tại một ngân hàng quốc tế, sau đó ngân hàng đó sẽ cho chi nhánh nước ngoài vay tương ứng được gọi là:",
+              "options": [
+                "Khoản nợ vay trước (Fronting loans).",
+                "Chuyển tiền thông qua thanh toán lệ phí dịch vụ nội bộ giữa công ty mẹ và chi nhánh.",
+                "Chuyển trả cổ tức.",
+                "Thanh toán phí bản quyền và lệ phí."
+              ],
+              "correctIndex": 0,
+              "correctAnswer": "A",
+              "explanation": "Đáp án chính xác A theo bản chuẩn PDF Trắc nghiệm KDQT."
+            },
+            {
+              "id": "tn_c9_5",
+              "num": 5,
+              "question": "Mục đích của quyết định tài chính trong quản trị tài chính quốc tế là gì?",
+              "options": [
+                "Quyết định hoạt động nào nên được đầu tư, mở rộng ở thị trường nước ngoài.",
+                "Quyết định cách thức quảng bá sản phẩm tại nước ngoài.",
+                "Quyết định loại bỏ toàn bộ rủi ro chính trị.",
+                "Quyết định làm thế nào tìm được nguồn vốn cho các hoạt động đầu tư."
+              ],
+              "correctIndex": 3,
+              "correctAnswer": "D",
+              "explanation": "Đáp án chính xác D theo bản chuẩn PDF Trắc nghiệm KDQT."
+            },
+            {
+              "id": "tn_c9_6",
+              "num": 6,
+              "question": "Quản lý tài chính quốc tế cần giúp doanh nghiệp bảo vệ mình trước loại rủi ro nào?",
+              "options": [
+                "Rủi ro kinh tế - chính trị.",
+                "Rủi ro thay đổi mẫu mã bao bì.",
+                "Rủi ro thay đổi khẩu hiệu quảng cáo.",
+                "Rủi ro lựa chọn kênh truyền thông."
+              ],
+              "correctIndex": 0,
+              "correctAnswer": "A",
+              "explanation": "Đáp án chính xác A theo bản chuẩn PDF Trắc nghiệm KDQT."
+            },
+            {
+              "id": "tn_c9_7",
+              "num": 7,
+              "question": "Công ty mẹ có xu hướng đẩy mạnh yêu cầu chi nhánh nước ngoài chuyển trả tiền cổ tức về nước trong bối cảnh nào?",
+              "options": [
+                "Chi nhánh mới được thành lập và đang trong giai đoạn đầu tư mở rộng hoạt động sản xuất kinh doanh, có nhu cầu rất lớn về vốn.",
+                "Rủi ro tỷ giá hối đoái tại nước sở tại ở mức cao, khiến công ty muốn rút doanh thu về càng sớm càng tốt để bảo toàn giá trị.",
+                "Chi nhánh có tỷ lệ sở hữu và quyền chi phối đáng kể thuộc về các cổ đông tại nước sở tại, dẫn đến việc quyết định tài chính phải cân nhắc đến lợi ích của các cổ đông.",
+                "Quốc gia nước sở tại đang áp dụng mức thuế đánh vào cổ tức cực kỳ cao."
+              ],
+              "correctIndex": 1,
+              "correctAnswer": "B",
+              "explanation": "Đáp án chính xác B theo bản chuẩn PDF Trắc nghiệm KDQT."
+            },
+            {
+              "id": "tn_c9_8",
+              "num": 8,
+              "question": "Một dự án đầu tư nước ngoài có lợi nhuận cao tại nước sở tại, nhưng quốc gia đó áp dụng hạn chế chuyển tiền, thuế suất cao và yêu cầu tái đầu tư một phần lợi nhuận lại cho địa phương, nhận định nào sau đây là đúng?",
+              "options": [
+                "Công ty mẹ cần đánh giá dưới góc nhìn của dòng tiền thật sự nhận được, vì các hạn chế này có thể ảnh hưởng tới giá trị hiện tại ròng của dự án đối với công ty mẹ.",
+                "Công ty mẹ chỉ cần xem xét lợi nhuận kế toán được ghi nhận tại nước sở tại, vì lợi nhuận cao luôn phản ánh đầy đủ hiệu quả tài chính của dự án đầu tư quốc tế đối với công ty mẹ.",
+                "Các hạn chế chuyển tiền, thuế suất cao và yêu cầu tái đầu tư tại địa phương thường làm tăng giá trị hiện tại ròng của dự án đối với công ty mẹ.",
+                "Thuế suất, quy định chuyển lợi nhuận và tỷ lệ tái đầu tư tại nước sở tại chủ yếu là vấn đề kế toán nội bộ, không ảnh hưởng đến quyết định đầu tư quốc tế."
+              ],
+              "correctIndex": 0,
+              "correctAnswer": "A",
+              "explanation": "Đáp án chính xác A theo bản chuẩn PDF Trắc nghiệm KDQT."
+            },
+            {
+              "id": "tn_c9_9",
+              "num": 9,
+              "question": "Hậu quả của việc chính phủ tăng lượng cung nội tệ một cách không kế hoạch để kích thích phát triển kinh tế là gì?",
+              "options": [
+                "Sẽ làm giảm lãi suất vay nợ trên thị trường nội địa, từ đó khiến cho các tổ chức tài chính, ngân hàng thương mại gặp khó khăn trong việc huy động vốn trung và dài hạn, do lợi nhuận từ hoạt động cho vay bị thu hẹp.",
+                "Dẫn đến việc quốc hữu hóa tài sản một cách không chính thức thông qua các biện pháp can thiệp gián tiếp của chính phủ, gây kiểm soát chặt chẽ hoạt động doanh nghiệp.",
+                "Gây ra tình trạng thiếu hụt hàng hóa trầm trọng trên thị trường do sự mất cân đối giữa cung - cầu và làm gián đoạn chuỗi cung ứng sản xuất.",
+                "Dẫn tới lạm phát giá cả, làm giảm giá trị đồng tiền quốc gia trên thị trường hối đoái, kéo theo sự suy giảm giá trị dòng tiền nhận được từ tài sản của công ty nước ngoài."
+              ],
+              "correctIndex": 3,
+              "correctAnswer": "D",
+              "explanation": "Đáp án chính xác D theo bản chuẩn PDF Trắc nghiệm KDQT."
+            },
+            {
+              "id": "tn_c9_10",
+              "num": 10,
+              "question": "Một chi nhánh nước ngoài có thể huy động vốn bằng nợ hoặc vốn chủ sở hữu, khi đó doanh nghiệp quốc tế nên lựa chọn cấu trúc tài chính nào cho phù hợp?",
+              "options": [
+                "Nên chấp nhận cấu trúc tài chính tại chi nhánh sao cho cùng một tỷ lệ nợ và vốn chủ sở hữu trong mọi quốc gia.",
+                "Nên chấp nhận cấu trúc tài chính tại chi nhánh sao cho tránh sử dụng nợ vay trong mọi trường hợp.",
+                "Nên chấp nhận cấu trúc tài chính tại chi nhánh sao cho chi phí vốn là tối thiểu nhất.",
+                "Nên chấp nhận cấu trúc tài chính tại chi nhánh sao cho chi phí vốn cao."
+              ],
+              "correctIndex": 2,
+              "correctAnswer": "C",
+              "explanation": "Đáp án chính xác C theo bản chuẩn PDF Trắc nghiệm KDQT."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "tn_c34",
+      "chapterNumber": "3-4",
+      "title": "Chương 3 & 4: Chiến Lược Thâm Nhập & Liên Minh Chiến Lược",
+      "description": "Phương thức thâm nhập thị trường, hợp đồng cấp phép, chìa khóa trao tay và liên minh chiến lược.",
+      "questionCount": 10,
+      "questions": [
+        {
+          "id": "tn_c34_1",
+          "num": 1,
+          "question": "Liên minh không góp vốn là hình thức gì?",
+          "options": [
+            "Các bên cùng góp vốn để lập công ty mới.",
+            "Các bên chỉ liên kết bằng sở hữu cổ phần.",
+            "Các bên hợp tác nhưng không góp vốn chung và không lập pháp nhân mới.",
+            "Các bên hợp tác hoàn toàn bằng đầu tư tài chính dài hạn."
+          ],
+          "correctIndex": 2,
+          "correctAnswer": "C",
+          "explanation": "Đáp án chính xác C theo bản chuẩn PDF Trắc nghiệm KDQT."
+        },
+        {
+          "id": "tn_c34_2",
+          "num": 2,
+          "question": "Hợp đồng cấp phép được hiểu là một hình thức gì?",
+          "options": [
+            "Một hình thức mà doanh nghiệp trực tiếp sản xuất hàng hóa tại nước nhà rồi bán sang thị trường nước ngoài thông qua trung gian thương mại.",
+            "Một thỏa thuận cho phép một bên được quyền sử dụng toàn bộ hệ thống kinh doanh, thương hiệu và công thức vận hành để kinh doanh dưới tên của bên giao.",
+            "Một thỏa thuận trong đó người cấp phép trao cho người khác các quyền đối với một tài sản vô hình trong một giai đoạn cụ thể để nhận một khoản phí bản quyền.",
+            "Một hình thức góp vốn thành lập một pháp nhân mới tại thị trường quốc tế nhằm chia sẻ rủi ro và điều hành hoạt động kinh doanh."
+          ],
+          "correctIndex": 2,
+          "correctAnswer": "C",
+          "explanation": "Đáp án chính xác C theo bản chuẩn PDF Trắc nghiệm KDQT."
+        },
+        {
+          "id": "tn_c34_3",
+          "num": 3,
+          "question": "Rủi ro của dự án \"chìa khóa trao tay\" là gì?",
+          "options": [
+            "Mất quyền kiểm soát thương hiệu.",
+            "Tạo đối thủ cạnh tranh tiềm năng.",
+            "Không chuyển giao kỹ năng.",
+            "Thu hồi vốn chậm."
+          ],
+          "correctIndex": 1,
+          "correctAnswer": "B",
+          "explanation": "Đáp án chính xác B theo bản chuẩn PDF Trắc nghiệm KDQT."
+        },
+        {
+          "id": "tn_c34_4",
+          "num": 4,
+          "question": "Sự hấp dẫn của một thị trường đối với doanh nghiệp phụ thuộc vào điều gì?",
+          "options": [
+            "Sự cân bằng giữa lợi ích, chi phí và rủi ro liên quan tới hoạt động kinh doanh tại thị trường đó.",
+            "Khả năng thâm nhập ngành của các doanh nghiệp khác làm tăng mức độ cạnh tranh trong thị trường.",
+            "Khả năng rút khỏi lĩnh vực kinh doanh của một số ngành khác, đặc biệt ảnh hưởng đến cấu trúc và sự ổn định của thị trường.",
+            "Sản phẩm và dịch vụ của doanh nghiệp, bao gồm năng lực sản xuất và phân phối trên thị trường."
+          ],
+          "correctIndex": 0,
+          "correctAnswer": "A",
+          "explanation": "Đáp án chính xác A theo bản chuẩn PDF Trắc nghiệm KDQT."
+        },
+        {
+          "id": "tn_c34_5",
+          "num": 5,
+          "question": "Loại liên minh nào được xây dựng dựa trên cơ sở niềm tin phát triển qua thời gian và là sự nối dài từ những thành công của liên minh tạm thời?",
+          "options": [
+            "Liên minh toàn diện.",
+            "Liên minh góp vốn.",
+            "Liên minh bền vững.",
+            "Liên minh tài chính."
+          ],
+          "correctIndex": 2,
+          "correctAnswer": "C",
+          "explanation": "Đáp án chính xác C theo bản chuẩn PDF Trắc nghiệm KDQT."
+        },
+        {
+          "id": "tn_c34_6",
+          "num": 6,
+          "question": "Bất lợi của doanh nghiệp khi tham gia vào thị trường nước ngoài với tư cách là người đi trước là gì?",
+          "options": [
+            "Chi phí kinh doanh thất bại, chi phí khai thác, bao gồm chi phí quảng cáo, thiết lập việc cung cấp sản phẩm cũng như chi phí hướng dẫn khách hàng.",
+            "Doanh nghiệp bị động trong việc thiết lập giá hoặc không thể tạo dựng được lòng trung thành với thương hiệu từ phía khách hàng.",
+            "Bộ máy quản lý bị phình to, quá tải do doanh nghiệp phải vận hành nhiều nhà máy sản xuất quy mô lớn tại nước sở tại.",
+            "Chu kỳ sống của sản phẩm bị rút ngắn đáng kể do doanh nghiệp không kịp thay đổi công nghệ để bắt kịp thị hiếu của thị trường."
+          ],
+          "correctIndex": 0,
+          "correctAnswer": "A",
+          "explanation": "Đáp án chính xác A theo bản chuẩn PDF Trắc nghiệm KDQT."
+        },
+        {
+          "id": "tn_c34_7",
+          "num": 7,
+          "question": "Đâu không phải là một sự đánh đổi mà doanh nghiệp phải đối mặt khi lựa chọn phương thức gia nhập thị trường quốc tế?",
+          "options": [
+            "Mức độ kiểm soát cao đòi hỏi cam kết nguồn lực lớn từ công ty mẹ.",
+            "Doanh nghiệp trở nên kém linh hoạt hơn trong việc tái định hình các hoạt động khi đã gắn bó lâu dài với thị trường nước ngoài.",
+            "Tham gia lâu dài phải chịu rủi ro từ môi trường chính trị và người tiêu dùng không ổn định.",
+            "Phương thức có mức kiểm soát cao giúp doanh nghiệp tránh được rủi ro từ môi trường nước ngoài."
+          ],
+          "correctIndex": 3,
+          "correctAnswer": "D",
+          "explanation": "Đáp án chính xác D theo bản chuẩn PDF Trắc nghiệm KDQT."
+        },
+        {
+          "id": "tn_c34_8",
+          "num": 8,
+          "question": "Nếu năng lực cốt lõi là …… thì nên tránh các thỏa thuận cấp phép, nhượng quyền thương mại hoặc liên doanh, trừ khi có cơ chế ràng buộc hoặc lợi thế đó chỉ mang tính tạm thời. Chỗ trống đó là gì?",
+          "options": [
+            "Bí quyết quản lý.",
+            "Bí quyết công nghệ.",
+            "Bí quyết sản xuất và vận hành.",
+            "Bí quyết xây dựng thương hiệu."
+          ],
+          "correctIndex": 1,
+          "correctAnswer": "B",
+          "explanation": "Đáp án chính xác B theo bản chuẩn PDF Trắc nghiệm KDQT."
+        },
+        {
+          "id": "tn_c34_9",
+          "num": 9,
+          "question": "Chi phí đi tiên phong là một bất lợi của người đi trước nhưng có thể mang lại lợi ích gì cho người đi sau?",
+          "options": [
+            "Giúp người đi sau tăng chi phí quảng cáo và thiết lập sản phẩm.",
+            "Giúp người đi sau thuận lợi từ việc quan sát và học hỏi.",
+            "Giúp người đi sau chiếm lĩnh toàn bộ chi phí tiền gửi của khách hàng.",
+            "Giúp người đi sau của công ty mẹ phải là người thương mại toàn diện."
+          ],
+          "correctIndex": 1,
+          "correctAnswer": "B",
+          "explanation": "Đáp án chính xác B theo bản chuẩn PDF Trắc nghiệm KDQT."
+        },
+        {
+          "id": "tn_c34_10",
+          "num": 10,
+          "question": "Đâu là mối lo ngại lớn nhất khi doanh nghiệp quyết định tham gia vào một liên minh chiến lược?",
+          "options": [
+            "Liên minh chiến lược sẽ làm gia tăng các thủ tục hành chính phức tạp và kéo dài thời gian ra quyết định của ban điều hành.",
+            "Liên minh chiến lược sẽ dẫn đến sự bất đồng ngôn ngữ và xung đột sâu sắc về văn hóa doanh nghiệp giữa các quốc gia.",
+            "Liên minh chiến lược sẽ đòi hỏi một nguồn ngân sách đầu tư ban đầu quá lớn, vượt quá khả năng tài chính của các bên.",
+            "Liên minh chiến lược giúp cho các đối thủ có một con đường ít tốn kém để tiếp cận với thị trường và công nghệ mới."
+          ],
+          "correctIndex": 3,
+          "correctAnswer": "D",
+          "explanation": "Đáp án chính xác D theo bản chuẩn PDF Trắc nghiệm KDQT."
+        }
+      ]
+    },
+    {
+      "id": "tn_c56",
+      "chapterNumber": "5-6",
+      "title": "Chương 5 & 6: Cấu Trúc Tổ Chức & Marketing Toàn Cầu",
+      "description": "Cơ cấu dọc, mạng lưới tri thức, kênh phân phối, hiệu ứng nguồn và chiến lược định giá.",
+      "questionCount": 8,
+      "questions": [
+        {
+          "id": "tn_c56_1",
+          "num": 1,
+          "question": "Cơ cấu dọc trong cơ cấu tổ chức đề cập đến việc gì?",
+          "options": [
+            "Sự phân chia chính thức của các bộ phận trong tổ chức.",
+            "Mối quan hệ giữa bộ phận quốc tế và bộ phận nội địa.",
+            "Vị trí của hệ thống trách nhiệm ra quyết định trong tổ chức.",
+            "Các cơ chế tích hợp để phối hợp các hoạt động chức năng."
+          ],
+          "correctIndex": 2,
+          "correctAnswer": "C",
+          "explanation": "Đáp án chính xác C theo bản chuẩn PDF Trắc nghiệm KDQT."
+        },
+        {
+          "id": "tn_c56_2",
+          "num": 2,
+          "question": "Tâm điểm chính của cơ chế phối hợp phi chính thức là gì?",
+          "options": [
+            "Các ủy ban theo khu vực địa lý.",
+            "Mạng lưới tri thức.",
+            "Cấu trúc ma trận cứng nhắc.",
+            "Hệ thống văn bản quy định pháp lý."
+          ],
+          "correctIndex": 1,
+          "correctAnswer": "B",
+          "explanation": "Đáp án chính xác B theo bản chuẩn PDF Trắc nghiệm KDQT."
+        },
+        {
+          "id": "tn_c56_3",
+          "num": 3,
+          "question": "Trong bối cảnh toàn cầu hóa kinh tế, có hai áp lực tồn tại song song là áp lực giảm chi phí và áp lực thích nghi địa phương, các doanh nghiệp đa quốc gia có xu hướng sử dụng chiến lược xuyên quốc gia. Khi đó họ phải đồng thời tập trung vào việc khai thác hiệu ứng kinh nghiệm và lợi thế địa điểm, cùng lúc với thích nghi địa phương cũng như chuyển giao nội bộ các năng lực cốt lõi. Vì vậy doanh nghiệp nên sử dụng cấu trúc tổ chức nào sau đây cho phù hợp?",
+          "options": [
+            "Cấu trúc ma trận toàn cầu.",
+            "Cấu trúc sản phẩm toàn cầu.",
+            "Cấu trúc bộ phận quốc tế.",
+            "Cấu trúc khu vực toàn cầu."
+          ],
+          "correctIndex": 0,
+          "correctAnswer": "A",
+          "explanation": "Đáp án chính xác A theo bản chuẩn PDF Trắc nghiệm KDQT."
+        },
+        {
+          "id": "tn_c56_4",
+          "num": 4,
+          "question": "Trong mối quan hệ giữa các chiến lược kinh doanh quốc tế, nhu cầu phối hợp giữa các đơn vị trong tổ chức được sắp xếp theo thứ tự tăng dần như thế nào?",
+          "options": [
+            "Quốc tế – Địa phương hóa – Tiêu chuẩn hóa toàn cầu – Xuyên quốc gia.",
+            "Địa phương hóa – Quốc tế – Tiêu chuẩn hóa toàn cầu – Xuyên quốc gia.",
+            "Tiêu chuẩn hóa toàn cầu – Quốc tế – Địa phương hóa – Xuyên quốc gia.",
+            "Xuyên quốc gia – Tiêu chuẩn hóa toàn cầu – Quốc tế – Địa phương hóa."
+          ],
+          "correctIndex": 1,
+          "correctAnswer": "B",
+          "explanation": "Đáp án chính xác B theo bản chuẩn PDF Trắc nghiệm KDQT."
+        },
+        {
+          "id": "tn_c56_5",
+          "num": 5,
+          "question": "Trong hệ thống phân phối, mối quan hệ giữa mức độ tập trung của ngành bán lẻ và chiều dài kênh thường là:",
+          "options": [
+            "Hệ thống bán lẻ càng tập trung vào doanh nghiệp lớn thì kênh phân phối càng dài.",
+            "Không có mối liên hệ nào giữa sự tập trung bán lẻ và chiều dài kênh.",
+            "Hệ thống bán lẻ phân mảnh giúp rút ngắn chiều dài kênh.",
+            "Hệ thống bán lẻ càng tập trung thì kênh phân phối có xu hướng càng ngắn."
+          ],
+          "correctIndex": 3,
+          "correctAnswer": "D",
+          "explanation": "Đáp án chính xác D theo bản chuẩn PDF Trắc nghiệm KDQT."
+        },
+        {
+          "id": "tn_c56_6",
+          "num": 6,
+          "question": "Hiệu ứng nguồn ảnh hưởng đến tín hiệu truyền thông quốc tế như thế nào?",
+          "options": [
+            "Gia tăng mức độ nhiễu của thông điệp quảng cáo trong quá trình truyền khiến người nhận không thể tiếp nhận đúng nội dung người gửi muốn truyền đạt",
+            "Khách hàng đánh giá thông điệp dựa trên hình ảnh hoặc địa vị của người gửi thông điệp",
+            "Gây hiểu nhầm về văn hóa trong chiến dịch truyền thông quốc tế",
+            "Giảm đáng kể chi phí thuê của các đại lý quảng cáo địa phương"
+          ],
+          "correctIndex": 1,
+          "correctAnswer": "B",
+          "explanation": "Đáp án chính xác B theo bản chuẩn PDF Trắc nghiệm KDQT."
+        },
+        {
+          "id": "tn_c56_7",
+          "num": 7,
+          "question": "Việc định giá theo đường cong kinh nghiệm có thể khiến doanh nghiệp gặp rủi ro pháp lý nào?",
+          "options": [
+            "Bị cáo buộc vi phạm quy định chống bán phá giá vì đặt mức giá thấp hơn chi phí sản xuất hiện tại",
+            "Vi phạm luật bảo hộ quyền sở hữu trí tuệ của nước sở tại do những khác biệt trong hệ thống pháp luật và cách thức đăng ký bảo vệ quyền",
+            "Bị đánh thuế tiêu thụ đặc biệt do sản lượng bán ra quá lớn gây ảnh hưởng đến thị trường nội địa của quốc gia nhập khẩu",
+            "Không thể áp dụng chiến lược phân biệt giá tại các thị trường khác"
+          ],
+          "correctIndex": 0,
+          "correctAnswer": "A",
+          "explanation": "Đáp án chính xác A theo bản chuẩn PDF Trắc nghiệm KDQT."
+        },
+        {
+          "id": "tn_c56_8",
+          "num": 8,
+          "question": "Điểm khác biệt cốt lõi giữa định giá cướp đoạt và định giá đa điểm là gì?",
+          "options": [
+            "Định giá cướp đoạt nhắm vào lợi ích dài hạn, còn định giá đa điểm nhắm vào lợi nhuận ngắn hạn",
+            "Định giá cướp đoạt dùng giá để loại bỏ đối thủ cạnh tranh, còn định giá đa điểm là sự phản ứng về giá tại thị trường này dựa trên hành động của đối thủ tại thị trường khác",
+            "Định giá cướp đoạt chỉ áp dụng cho doanh nghiệp lớn, còn định giá đa điểm áp dụng cho mọi ngành nghề",
+            "Định giá cướp đoạt vi phạm luật chống bán phá giá, còn định giá đa điểm thì không"
+          ],
+          "correctIndex": 1,
+          "correctAnswer": "B",
+          "explanation": "Đáp án chính xác B theo bản chuẩn PDF Trắc nghiệm KDQT."
+        }
+      ]
+    },
+    {
+      "id": "tn_c7",
+      "chapterNumber": "7",
+      "title": "Chương 7: Sản Xuất & Quản Trị Chuỗi Cung Ứng Toàn Cầu",
+      "description": "Công nghệ sản xuất linh hoạt, EDI, tài sản chuyên biệt, JIT và nhà máy thông minh 4.0.",
+      "questionCount": 10,
+      "questions": [
+        {
+          "id": "tn_c7_1",
+          "num": 1,
+          "question": "Khi quyết định địa điểm sản xuất dựa trên yếu tố công nghệ, nếu mức chi phí cố định của một nhà máy sản xuất rất cao, doanh nghiệp nên ưu tiên chiến lược nào?",
+          "options": [
+            "Sản xuất tập trung tại một hoặc một số ít cơ sở để phục vụ thị trường toàn cầu",
+            "Sản xuất phân tán tại nhiều quốc gia để đáp ứng nhu cầu địa phương",
+            "Thuê ngoài toàn bộ quá trình sản xuất ở các nước đang phát triển",
+            "Xây dựng nhà máy tại tất cả thị trường mà công ty có mặt"
+          ],
+          "correctIndex": 0,
+          "correctAnswer": "A",
+          "explanation": "Đáp án chính xác A theo bản chuẩn PDF Trắc nghiệm KDQT."
+        },
+        {
+          "id": "tn_c7_2",
+          "num": 2,
+          "question": "Lợi thế nào của việc áp dụng hệ thống trao đổi dữ liệu điện tử (EDI) trong quản trị chuỗi cung ứng?",
+          "options": [
+            "Tất cả các đối tượng tham gia chuỗi có thể liên lạc ngay lập tức, linh hoạt và xử lý kịp thời các vấn đề phát sinh",
+            "Loại bỏ hoàn toàn sự cần thiết phải cung cấp trung gian trong chuỗi cung ứng, giúp doanh nghiệp có thể kiểm soát trực tiếp toàn bộ hoạt động phân phối và sản xuất",
+            "Buộc khách hàng và các đối tác trong chuỗi phải tự quản lý toàn bộ lượng hàng tồn kho của mình",
+            "Đảm bảo tỷ giá hối đoái giữa các quốc gia luôn duy trì ở mức ổn định"
+          ],
+          "correctIndex": 0,
+          "correctAnswer": "A",
+          "explanation": "Đáp án chính xác A theo bản chuẩn PDF Trắc nghiệm KDQT."
+        },
+        {
+          "id": "tn_c7_3",
+          "num": 3,
+          "question": "Trong quá trình dịch vụ quốc tế, hoạch định nào đề cập đến việc quyết định công ty sẽ phục vụ bao nhiêu khách hàng tại một thời điểm hay giai đoạn nhất định?",
+          "options": [
+            "Hoạch định công suất",
+            "Hoạch định địa điểm",
+            "Thiết kế cơ sở sản xuất",
+            "Lên lịch hoạt động"
+          ],
+          "correctIndex": 0,
+          "correctAnswer": "A",
+          "explanation": "Đáp án chính xác A theo bản chuẩn PDF Trắc nghiệm KDQT."
+        },
+        {
+          "id": "tn_c7_4",
+          "num": 4,
+          "question": "Vì sao tài sản chuyên biệt hóa cao khiến doanh nghiệp thường có xu hướng tự sản xuất nhiều hơn?",
+          "options": [
+            "Việc đầu tư vào tài sản mang tính chuyên biệt cao thường đi kèm với nguy cơ rò rỉ công nghệ, tri thức cốt lõi khiến doanh nghiệp phải đối mặt với rủi ro mất lợi thế cạnh tranh trong dài hạn",
+            "Tài sản chuyên biệt hóa sinh ra sự phụ thuộc lẫn nhau, tạo ra tâm lý thiếu tin tưởng, lo sợ bị mất lợi thế thương lượng, bị ép giá hoặc rơi vào bế tắc kinh doanh từ cả hai phía",
+            "Môi trường pháp lý tại quốc gia sở tại thường đặt ra các rào cản, quy định hạn chế việc chia sẻ quyền sở hữu tài sản quan trọng",
+            "Việc đầu tư vào tài sản chuyên biệt hóa thường đòi hỏi chi phí ban đầu rất lớn, kéo theo áp lực tài chính đáng kể khiến doanh nghiệp có xu hướng muốn kiểm soát trực tiếp quá trình vận hành để đảm bảo hiệu quả sử dụng vốn"
+          ],
+          "correctIndex": 1,
+          "correctAnswer": "B",
+          "explanation": "Đáp án chính xác B theo bản chuẩn PDF Trắc nghiệm KDQT."
+        },
+        {
+          "id": "tn_c7_5",
+          "num": 5,
+          "question": "Vì sao công nghệ sản xuất linh hoạt giúp doanh nghiệp giải quyết sự đánh đổi giữa chi phí và tính đa dạng hóa sản phẩm?",
+          "options": [
+            "Vì cho phép sản xuất sản phẩm đa dạng ở mức chi phí đơn vị trước đây chỉ đạt được bằng sản xuất hàng loạt mang tính tiêu chuẩn hóa",
+            "Vì buộc doanh nghiệp phải đồng nhất hóa toàn bộ quy trình sản xuất duy nhất",
+            "Vì làm tăng thời gian thiết lập máy móc để tập trung vào chất lượng",
+            "Vì loại bỏ hoàn toàn nhu cầu cải tiến, kiểm soát chất lượng"
+          ],
+          "correctIndex": 0,
+          "correctAnswer": "A",
+          "explanation": "Đáp án chính xác A theo bản chuẩn PDF Trắc nghiệm KDQT."
+        },
+        {
+          "id": "tn_c7_6",
+          "num": 6,
+          "question": "Lý do cốt lõi nào khiến việc thuê ngoài có thể giúp giảm chi phí trong bối cảnh cấu trúc tổ chức phức tạp?",
+          "options": [
+            "Thuê ngoài giúp doanh nghiệp biến đổi một phần chi phí cố định sang chi phí biến đổi, từ đó tăng tính linh hoạt tài chính và dễ dàng điều chỉnh theo biến động nhu cầu thị trường",
+            "Việc tự sản xuất làm tăng độ phức tạp của cơ cấu tổ chức, đồng thời các nhà cung cấp nội bộ thường thiếu sức ép cạnh tranh nên không có động lực để cắt giảm chi phí",
+            "Thuê ngoài cho phép doanh nghiệp tập trung nguồn lực vào năng lực cốt lõi, giảm sự phân tán trong quản lý, từ đó gián tiếp nâng cao hiệu quả hoạt động",
+            "Các nhà cung cấp quy mô lớn có mức độ chuyên môn hóa cao, quy trình chuẩn hóa giúp tối ưu hóa chi phí tốt hơn"
+          ],
+          "correctIndex": 1,
+          "correctAnswer": "B",
+          "explanation": "Đáp án chính xác B theo bản chuẩn PDF Trắc nghiệm KDQT."
+        },
+        {
+          "id": "tn_c7_7",
+          "num": 7,
+          "question": "Khi một doanh nghiệp quốc tế theo đuổi đồng thời hai mục tiêu là vừa giảm chi phí, vừa nâng cao chất lượng thì doanh nghiệp nên làm gì?",
+          "options": [
+            "Chấp nhận sự đánh đổi tức thời vì tăng chất lượng thường làm chi phí tăng và không thể giảm chi phí trong ngắn hạn",
+            "Không nên xem đây là sự đánh đổi tức thời, vì việc cải tiến kiểm soát chất lượng có thể làm tăng năng suất, giảm sản phẩm lỗi, giảm chi phí bảo hành và vận hành",
+            "Doanh nghiệp chỉ có thể giảm chi phí bằng cách bỏ qua một số khâu kiểm soát chất lượng",
+            "Doanh nghiệp nên tăng cường việc thuê ngoài để dễ dàng phân tán rủi ro trong quá trình sản xuất"
+          ],
+          "correctIndex": 1,
+          "correctAnswer": "B",
+          "explanation": "Đáp án chính xác B theo bản chuẩn PDF Trắc nghiệm KDQT."
+        },
+        {
+          "id": "tn_c7_8",
+          "num": 8,
+          "question": "Doanh nghiệp áp dụng Just-in-Time (JIT) triệt để và gần như không có hàng tồn kho an toàn. Khi nhà cung ứng bị gián đoạn do thiên tai, toàn bộ dây chuyền bị ngưng trệ. Nhận định nào sau đây là đúng?",
+          "options": [
+            "Đây là rủi ro của Just-in-Time vì một xáo trộn nhỏ trong chuỗi cung ứng nguyên vật liệu sẽ làm ảnh hưởng khiến toàn bộ chuỗi cung ứng bị bế tắc",
+            "Đây là ưu điểm của Just-in-Time vì không duy trì hàng tồn kho an toàn giúp doanh nghiệp phản ứng nhanh hơn trước biến động của nhà cung cấp và thị trường",
+            "Đây là lỗi của bộ phận marketing vì việc dây chuyền sản xuất bị ngưng trệ xuất phát từ việc dự báo nhu cầu không chuẩn xác",
+            "Đây là bằng chứng cho thấy Just-in-Time luôn phù hợp với mọi điều kiện vì không cần điều chỉnh quy trình hậu cần"
+          ],
+          "correctIndex": 0,
+          "correctAnswer": "A",
+          "explanation": "Đáp án chính xác A theo bản chuẩn PDF Trắc nghiệm KDQT."
+        },
+        {
+          "id": "tn_c7_9",
+          "num": 9,
+          "question": "Một quốc gia từng là nơi sản xuất có chi phí thấp, nhưng sau đó tiền tệ tăng giá và chi phí nhân công tăng. Nhận định nào sau đây là đúng?",
+          "options": [
+            "Quốc gia đó có thể trở nên kém hấp dẫn hơn vì sự tăng giá của tiền tệ và chi phí lao động sẽ làm tăng chi phí sản xuất",
+            "Nơi đó chắc chắn sẽ hấp dẫn hơn vì tiền tệ tăng luôn làm cho chi phí sản xuất giảm",
+            "Doanh nghiệp không cần quan tâm tới tỷ giá vì tỷ giá không ảnh hưởng tới lựa chọn địa điểm sản xuất",
+            "Doanh nghiệp chỉ cần xem xét văn hóa tiêu dùng, không cần xem xét chi phí nhân công"
+          ],
+          "correctIndex": 0,
+          "correctAnswer": "A",
+          "explanation": "Đáp án chính xác A theo bản chuẩn PDF Trắc nghiệm KDQT."
+        },
+        {
+          "id": "tn_c7_10",
+          "num": 10,
+          "question": "Điểm khác biệt căn bản biến một nhà máy tự động hóa thông thường thành nhà máy thông minh trong thời đại công nghệ 4.0 là gì?",
+          "options": [
+            "Nhà máy thông minh ứng dụng các hệ thống trao đổi dữ liệu điện tử và tự động hóa quy trình chứng từ, giúp tăng tính lưu chuyển thông tin và giảm sai sót trong vận hành",
+            "Các máy móc, thiết bị có thể tự giao tiếp, ra quyết định thông minh với nhau qua điện toán đám mây; con người đóng vai trò hỗ trợ, điều hành quá trình sản xuất",
+            "Đảm bảo tính ổn định của hệ thống; nhà máy thông minh giới hạn việc thu thập và xử lý dữ liệu ở mức cần thiết, tránh phụ thuộc vào mạng internet",
+            "Nhà máy thông minh tích hợp hệ thống hoạch định nguồn nhân lực doanh nghiệp (ERP) ở mức cao, cho phép quản lý chung toàn bộ dữ liệu sản xuất và vận hành thông qua một nền tảng web thống nhất"
+          ],
+          "correctIndex": 1,
+          "correctAnswer": "B",
+          "explanation": "Đáp án chính xác B theo bản chuẩn PDF Trắc nghiệm KDQT."
+        }
+      ]
+    },
+    {
+      "id": "tn_c8",
+      "chapterNumber": "8",
+      "title": "Chương 8: Quản Trị Nhân Lực Quốc Tế",
+      "description": "Chính sách nhân sự vị chủng, đa tâm, năng lực nhận thức chuyên gia và quan hệ lao động.",
+      "questionCount": 10,
+      "questions": [
+        {
+          "id": "tn_c8_1",
+          "num": 1,
+          "question": "Khác biệt nào giữa các quốc gia làm cho hoạt động quản trị nhân lực quốc tế trở nên phức tạp?",
+          "options": [
+            "Sự khác biệt về thị trường lao động, văn hóa, hệ thống pháp lý, hệ thống kinh tế và các yếu tố khác.",
+            "Sự khác biệt về trình độ công nghệ thông tin, phần mềm quản lý nhân sự giữa các vùng lãnh thổ.",
+            "Sự khác biệt về chiến lược kinh doanh, mô hình cấu trúc của các tập đoàn đa quốc gia.",
+            "Sự khác biệt về tiêu chuẩn tuyển dụng, chính sách đãi ngộ dành cho nhân sự tại văn phòng đại diện."
+          ],
+          "correctIndex": 0,
+          "correctAnswer": "A",
+          "explanation": "Đáp án chính xác A theo bản chuẩn PDF Trắc nghiệm KDQT."
+        },
+        {
+          "id": "tn_c8_2",
+          "num": 2,
+          "question": "Các hoạt động nào về quản trị nhân lực sẽ trở nên phức tạp đối với một doanh nghiệp đa quốc gia?",
+          "options": [
+            "Đăng ký sở hữu trí tuệ, bảo hộ thương hiệu, kiểm toán tài chính.",
+            "Nghiên cứu thị trường, quảng cáo, thiết kế bao bì.",
+            "Quản trị chuỗi cung ứng, vận chuyển hàng hóa, lưu kho bãi.",
+            "Tuyển dụng nhân sự, phát triển quản lý, năng lực, lương bổng."
+          ],
+          "correctIndex": 3,
+          "correctAnswer": "D",
+          "explanation": "Đáp án chính xác D theo bản chuẩn PDF Trắc nghiệm KDQT."
+        },
+        {
+          "id": "tn_c8_3",
+          "num": 3,
+          "question": "Để khắc phục sự thiếu hụt về cán bộ quản lý có trình độ cao ở các nước đang phát triển, doanh nghiệp ở các nước phát triển nên làm gì khi đặt chi nhánh tại các nước đang phát triển?",
+          "options": [
+            "Tuyển dụng quản lý từ thị trường lao động địa phương.",
+            "Bổ nhiệm quản lý dựa trên thâm niên làm việc.",
+            "Áp dụng chương trình đào tạo chung cho các chi nhánh.",
+            "Áp dụng chính sách vị chủng."
+          ],
+          "correctIndex": 3,
+          "correctAnswer": "D",
+          "explanation": "Đáp án chính xác D theo bản chuẩn PDF Trắc nghiệm KDQT."
+        },
+        {
+          "id": "tn_c8_4",
+          "num": 4,
+          "question": "Khả năng nhận thức trong tuyển chọn chuyên gia có nghĩa là gì?",
+          "options": [
+            "Khả năng nói nhiều ngoại ngữ.",
+            "Khả năng giải quyết các bài toán kỹ thuật.",
+            "Sự thấu cảm và hiểu các hành vi văn hóa khác biệt.",
+            "Nhận biết được các đối thủ cạnh tranh."
+          ],
+          "correctIndex": 2,
+          "correctAnswer": "C",
+          "explanation": "Đáp án chính xác C theo bản chuẩn PDF Trắc nghiệm KDQT."
+        },
+        {
+          "id": "tn_c8_5",
+          "num": 5,
+          "question": "Mối e ngại lớn nhất của công đoàn về các công ty đa quốc gia là gì?",
+          "options": [
+            "Công ty đa quốc gia có cơ cấu tổ chức phức tạp nên khó xác định rõ trách nhiệm của từng cấp quản lý.",
+            "Công ty sử dụng nhiều tiêu chuẩn quản trị và quy định nội bộ khác nhau giữa các quốc gia và chi nhánh.",
+            "Công ty thường có các quyết định quan trọng từ trụ sở nước ngoài thay vì chi nhánh địa phương.",
+            "Công ty có thể đe dọa chuyển dịch sản xuất sang nước khác để hạn chế sức mạnh đàm phán của công đoàn."
+          ],
+          "correctIndex": 3,
+          "correctAnswer": "D",
+          "explanation": "Đáp án chính xác D theo bản chuẩn PDF Trắc nghiệm KDQT."
+        },
+        {
+          "id": "tn_c8_6",
+          "num": 6,
+          "question": "Chính sách đa tâm sẽ phù hợp nhất với chiến lược nào?",
+          "options": [
+            "Chiến lược tiêu chuẩn hóa toàn cầu.",
+            "Chiến lược quốc tế.",
+            "Chiến lược địa phương hóa.",
+            "Chiến lược xuyên quốc gia."
+          ],
+          "correctIndex": 2,
+          "correctAnswer": "C",
+          "explanation": "Đáp án chính xác C theo bản chuẩn PDF Trắc nghiệm KDQT."
+        },
+        {
+          "id": "tn_c8_7",
+          "num": 7,
+          "question": "Sự thiển cận về văn hóa có thể gây ra hậu quả gì đối với doanh nghiệp đa quốc gia?",
+          "options": [
+            "Có thể dẫn đến sai lầm trong marketing và quản lý, nguy cơ thất bại cho công ty, nhà quản lý có thể mắc sai lầm lớn trong thời gian thích nghi.",
+            "Có thể khiến cho doanh nghiệp phải dành nhiều thời gian, nhiều nguồn lực hơn cho việc xây dựng chương trình đào tạo do văn hóa giữa các chi nhánh ở những quốc gia khác nhau.",
+            "Có thể làm nhà quản lý tập trung nhiều hơn vào việc áp dụng các quy trình quản trị quen thuộc của công ty mẹ trong hoạt động quốc tế.",
+            "Có thể khiến doanh nghiệp ưu tiên duy trì các chính sách và phương thức quản lý đã được áp dụng tại trụ sở chính khi triển khai hoạt động ở nước ngoài."
+          ],
+          "correctIndex": 0,
+          "correctAnswer": "A",
+          "explanation": "Đáp án chính xác A theo bản chuẩn PDF Trắc nghiệm KDQT."
+        },
+        {
+          "id": "tn_c8_8",
+          "num": 8,
+          "question": "Khi doanh nghiệp giao chi nhánh nước ngoài cho nhà quản trị địa phương thì có thể dẫn đến rủi ro gì?",
+          "options": [
+            "Các nhà quản trị địa phương thường đưa ra quyết định dựa trên sự hiểu biết về thị trường và môi trường kinh doanh tại nước sở tại.",
+            "Các nhà quản trị địa phương có xu hướng điều chỉnh hoạt động kinh doanh để phù hợp hơn với nhu cầu của thị trường, khách hàng địa phương và đặc điểm cạnh tranh tại nước sở tại.",
+            "Chi nhánh nước ngoài có thể áp dụng các phương thức quản lý và vận hành phù hợp với bối cảnh kinh tế, xã hội và môi trường kinh doanh của quốc gia sở tại.",
+            "Chi nhánh nước ngoài có thể trở thành một đơn vị kinh doanh độc lập với các chi nhánh nước ngoài khác, thậm chí công ty mẹ có thể bị cô lập với công ty con ở địa phương."
+          ],
+          "correctIndex": 3,
+          "correctAnswer": "D",
+          "explanation": "Đáp án chính xác D theo bản chuẩn PDF Trắc nghiệm KDQT."
+        },
+        {
+          "id": "tn_c8_9",
+          "num": 9,
+          "question": "Tại sao trước đây hầu hết quan hệ lao động quốc tế thường được phi tập trung hóa cho các chi nhánh ở các nước?",
+          "options": [
+            "Vì các chi nhánh ở từng quốc gia thường có điều kiện thị trường, văn hóa kinh doanh và nhu cầu nhân lực khác nhau.",
+            "Vì luật lao động, quyền lực công đoàn và bản chất của đàm phán tập thể thay đổi rõ rệt từ quốc gia này sang quốc gia khác.",
+            "Vì các chi nhánh ở từng quốc gia thường được trao quyền chủ động trong việc quản lý các vấn đề nhân sự.",
+            "Các doanh nghiệp quốc tế muốn tăng tính linh hoạt trong việc xây dựng chính sách lương, thưởng và phúc lợi."
+          ],
+          "correctIndex": 1,
+          "correctAnswer": "B",
+          "explanation": "Đáp án chính xác B theo bản chuẩn PDF Trắc nghiệm KDQT."
+        },
+        {
+          "id": "tn_c8_10",
+          "num": 10,
+          "question": "Sai lầm nào của doanh nghiệp trong khâu tuyển chọn dẫn đến thất bại điều động?",
+          "options": [
+            "Doanh nghiệp chỉ tập trung vào việc tuyển dụng những người biết ngoại ngữ từ nhỏ.",
+            "Trả mức thù lao quá chênh lệch giữa các quốc gia.",
+            "Đánh giá năng lực nội địa và nước ngoài như nhau, nhưng thực chất thì không.",
+            "Không hỏi ý kiến của tổ chức công đoàn trước khi điều động."
+          ],
+          "correctIndex": 2,
+          "correctAnswer": "C",
+          "explanation": "Đáp án chính xác C theo bản chuẩn PDF Trắc nghiệm KDQT."
+        }
+      ]
+    },
+    {
+      "id": "tn_c9",
+      "chapterNumber": "9",
+      "title": "Chương 9: Quản Trị Tài Chính Quốc Tế",
+      "description": "Chuyển giá, nợ vay trước (Fronting loans), quản trị rủi ro hối đoái và chính sách cổ tức.",
+      "questionCount": 10,
+      "questions": [
+        {
+          "id": "tn_c9_1",
+          "num": 1,
+          "question": "Nhóm quyết định liên quan đến quản trị tài chính quốc tế là:",
+          "options": [
+            "Đầu tư, tài chính và quản lý tiền tệ.",
+            "Đầu tư, tài trợ và quản trị rủi ro tài chính.",
+            "Đầu tư, huy động vốn và quản lý tiền tệ.",
+            "Đầu tư, tài trợ và quản lý nguồn vốn lưu động toàn cầu."
+          ],
+          "correctIndex": 0,
+          "correctAnswer": "A",
+          "explanation": "Đáp án chính xác A theo bản chuẩn PDF Trắc nghiệm KDQT."
+        },
+        {
+          "id": "tn_c9_2",
+          "num": 2,
+          "question": "Trong kinh doanh quốc tế, các quyết định đầu tư, tài chính và quản lý tiền tệ thường:",
+          "options": [
+            "Phức tạp do sự khác biệt về tiền tệ, thuế, quy định dòng tiền và rủi ro kinh tế - chính trị.",
+            "Ít chịu ảnh hưởng bởi hệ thống thuế, tỷ giá hối đoái và quy định tài chính.",
+            "Chỉ liên quan tới hoạt động mang tính quốc tế, vì quyết định tài chính không ảnh hưởng đáng kể đến đầu tư, sản xuất và dòng tiền của doanh nghiệp.",
+            "Đơn giản hơn so với kinh doanh nội địa vì các quốc gia sử dụng chung một hệ thống tiền tệ và có chính sách tài chính hẹp."
+          ],
+          "correctIndex": 0,
+          "correctAnswer": "A",
+          "explanation": "Đáp án chính xác A theo bản chuẩn PDF Trắc nghiệm KDQT."
+        },
+        {
+          "id": "tn_c9_3",
+          "num": 3,
+          "question": "Khi hàng hóa và dịch vụ được chuyển giao giữa công ty mẹ và các chi nhánh nước ngoài, thì doanh nghiệp nên sử dụng kỹ thuật chuyển tiền nào?",
+          "options": [
+            "Chuyển giá.",
+            "Chuyển trả cổ tức.",
+            "Thanh toán phí bản quyền và lệ phí.",
+            "Sử dụng cơ chế thanh toán nội bộ không chính thức."
+          ],
+          "correctIndex": 0,
+          "correctAnswer": "A",
+          "explanation": "Đáp án chính xác A theo bản chuẩn PDF Trắc nghiệm KDQT."
+        },
+        {
+          "id": "tn_c9_4",
+          "num": 4,
+          "question": "Kỹ thuật chuyển tiền bằng cách để công ty mẹ ký quỹ tại một ngân hàng quốc tế, sau đó ngân hàng đó sẽ cho chi nhánh nước ngoài vay tương ứng được gọi là:",
+          "options": [
+            "Khoản nợ vay trước (Fronting loans).",
+            "Chuyển tiền thông qua thanh toán lệ phí dịch vụ nội bộ giữa công ty mẹ và chi nhánh.",
+            "Chuyển trả cổ tức.",
+            "Thanh toán phí bản quyền và lệ phí."
+          ],
+          "correctIndex": 0,
+          "correctAnswer": "A",
+          "explanation": "Đáp án chính xác A theo bản chuẩn PDF Trắc nghiệm KDQT."
+        },
+        {
+          "id": "tn_c9_5",
+          "num": 5,
+          "question": "Mục đích của quyết định tài chính trong quản trị tài chính quốc tế là gì?",
+          "options": [
+            "Quyết định hoạt động nào nên được đầu tư, mở rộng ở thị trường nước ngoài.",
+            "Quyết định cách thức quảng bá sản phẩm tại nước ngoài.",
+            "Quyết định loại bỏ toàn bộ rủi ro chính trị.",
+            "Quyết định làm thế nào tìm được nguồn vốn cho các hoạt động đầu tư."
+          ],
+          "correctIndex": 3,
+          "correctAnswer": "D",
+          "explanation": "Đáp án chính xác D theo bản chuẩn PDF Trắc nghiệm KDQT."
+        },
+        {
+          "id": "tn_c9_6",
+          "num": 6,
+          "question": "Quản lý tài chính quốc tế cần giúp doanh nghiệp bảo vệ mình trước loại rủi ro nào?",
+          "options": [
+            "Rủi ro kinh tế - chính trị.",
+            "Rủi ro thay đổi mẫu mã bao bì.",
+            "Rủi ro thay đổi khẩu hiệu quảng cáo.",
+            "Rủi ro lựa chọn kênh truyền thông."
+          ],
+          "correctIndex": 0,
+          "correctAnswer": "A",
+          "explanation": "Đáp án chính xác A theo bản chuẩn PDF Trắc nghiệm KDQT."
+        },
+        {
+          "id": "tn_c9_7",
+          "num": 7,
+          "question": "Công ty mẹ có xu hướng đẩy mạnh yêu cầu chi nhánh nước ngoài chuyển trả tiền cổ tức về nước trong bối cảnh nào?",
+          "options": [
+            "Chi nhánh mới được thành lập và đang trong giai đoạn đầu tư mở rộng hoạt động sản xuất kinh doanh, có nhu cầu rất lớn về vốn.",
+            "Rủi ro tỷ giá hối đoái tại nước sở tại ở mức cao, khiến công ty muốn rút doanh thu về càng sớm càng tốt để bảo toàn giá trị.",
+            "Chi nhánh có tỷ lệ sở hữu và quyền chi phối đáng kể thuộc về các cổ đông tại nước sở tại, dẫn đến việc quyết định tài chính phải cân nhắc đến lợi ích của các cổ đông.",
+            "Quốc gia nước sở tại đang áp dụng mức thuế đánh vào cổ tức cực kỳ cao."
+          ],
+          "correctIndex": 1,
+          "correctAnswer": "B",
+          "explanation": "Đáp án chính xác B theo bản chuẩn PDF Trắc nghiệm KDQT."
+        },
+        {
+          "id": "tn_c9_8",
+          "num": 8,
+          "question": "Một dự án đầu tư nước ngoài có lợi nhuận cao tại nước sở tại, nhưng quốc gia đó áp dụng hạn chế chuyển tiền, thuế suất cao và yêu cầu tái đầu tư một phần lợi nhuận lại cho địa phương, nhận định nào sau đây là đúng?",
+          "options": [
+            "Công ty mẹ cần đánh giá dưới góc nhìn của dòng tiền thật sự nhận được, vì các hạn chế này có thể ảnh hưởng tới giá trị hiện tại ròng của dự án đối với công ty mẹ.",
+            "Công ty mẹ chỉ cần xem xét lợi nhuận kế toán được ghi nhận tại nước sở tại, vì lợi nhuận cao luôn phản ánh đầy đủ hiệu quả tài chính của dự án đầu tư quốc tế đối với công ty mẹ.",
+            "Các hạn chế chuyển tiền, thuế suất cao và yêu cầu tái đầu tư tại địa phương thường làm tăng giá trị hiện tại ròng của dự án đối với công ty mẹ.",
+            "Thuế suất, quy định chuyển lợi nhuận và tỷ lệ tái đầu tư tại nước sở tại chủ yếu là vấn đề kế toán nội bộ, không ảnh hưởng đến quyết định đầu tư quốc tế."
+          ],
+          "correctIndex": 0,
+          "correctAnswer": "A",
+          "explanation": "Đáp án chính xác A theo bản chuẩn PDF Trắc nghiệm KDQT."
+        },
+        {
+          "id": "tn_c9_9",
+          "num": 9,
+          "question": "Hậu quả của việc chính phủ tăng lượng cung nội tệ một cách không kế hoạch để kích thích phát triển kinh tế là gì?",
+          "options": [
+            "Sẽ làm giảm lãi suất vay nợ trên thị trường nội địa, từ đó khiến cho các tổ chức tài chính, ngân hàng thương mại gặp khó khăn trong việc huy động vốn trung và dài hạn, do lợi nhuận từ hoạt động cho vay bị thu hẹp.",
+            "Dẫn đến việc quốc hữu hóa tài sản một cách không chính thức thông qua các biện pháp can thiệp gián tiếp của chính phủ, gây kiểm soát chặt chẽ hoạt động doanh nghiệp.",
+            "Gây ra tình trạng thiếu hụt hàng hóa trầm trọng trên thị trường do sự mất cân đối giữa cung - cầu và làm gián đoạn chuỗi cung ứng sản xuất.",
+            "Dẫn tới lạm phát giá cả, làm giảm giá trị đồng tiền quốc gia trên thị trường hối đoái, kéo theo sự suy giảm giá trị dòng tiền nhận được từ tài sản của công ty nước ngoài."
+          ],
+          "correctIndex": 3,
+          "correctAnswer": "D",
+          "explanation": "Đáp án chính xác D theo bản chuẩn PDF Trắc nghiệm KDQT."
+        },
+        {
+          "id": "tn_c9_10",
+          "num": 10,
+          "question": "Một chi nhánh nước ngoài có thể huy động vốn bằng nợ hoặc vốn chủ sở hữu, khi đó doanh nghiệp quốc tế nên lựa chọn cấu trúc tài chính nào cho phù hợp?",
+          "options": [
+            "Nên chấp nhận cấu trúc tài chính tại chi nhánh sao cho cùng một tỷ lệ nợ và vốn chủ sở hữu trong mọi quốc gia.",
+            "Nên chấp nhận cấu trúc tài chính tại chi nhánh sao cho tránh sử dụng nợ vay trong mọi trường hợp.",
+            "Nên chấp nhận cấu trúc tài chính tại chi nhánh sao cho chi phí vốn là tối thiểu nhất.",
+            "Nên chấp nhận cấu trúc tài chính tại chi nhánh sao cho chi phí vốn cao."
+          ],
+          "correctIndex": 2,
+          "correctAnswer": "C",
+          "explanation": "Đáp án chính xác C theo bản chuẩn PDF Trắc nghiệm KDQT."
+        }
+      ]
+    }
+  ],
+  "allQuestions": [
+    {
+      "id": "tn_c34_1",
+      "num": 1,
+      "question": "Liên minh không góp vốn là hình thức gì?",
+      "options": [
+        "Các bên cùng góp vốn để lập công ty mới.",
+        "Các bên chỉ liên kết bằng sở hữu cổ phần.",
+        "Các bên hợp tác nhưng không góp vốn chung và không lập pháp nhân mới.",
+        "Các bên hợp tác hoàn toàn bằng đầu tư tài chính dài hạn."
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "C",
+      "explanation": "Đáp án chính xác C theo bản chuẩn PDF Trắc nghiệm KDQT."
+    },
+    {
+      "id": "tn_c34_2",
+      "num": 2,
+      "question": "Hợp đồng cấp phép được hiểu là một hình thức gì?",
+      "options": [
+        "Một hình thức mà doanh nghiệp trực tiếp sản xuất hàng hóa tại nước nhà rồi bán sang thị trường nước ngoài thông qua trung gian thương mại.",
+        "Một thỏa thuận cho phép một bên được quyền sử dụng toàn bộ hệ thống kinh doanh, thương hiệu và công thức vận hành để kinh doanh dưới tên của bên giao.",
+        "Một thỏa thuận trong đó người cấp phép trao cho người khác các quyền đối với một tài sản vô hình trong một giai đoạn cụ thể để nhận một khoản phí bản quyền.",
+        "Một hình thức góp vốn thành lập một pháp nhân mới tại thị trường quốc tế nhằm chia sẻ rủi ro và điều hành hoạt động kinh doanh."
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "C",
+      "explanation": "Đáp án chính xác C theo bản chuẩn PDF Trắc nghiệm KDQT."
+    },
+    {
+      "id": "tn_c34_3",
+      "num": 3,
+      "question": "Rủi ro của dự án \"chìa khóa trao tay\" là gì?",
+      "options": [
+        "Mất quyền kiểm soát thương hiệu.",
+        "Tạo đối thủ cạnh tranh tiềm năng.",
+        "Không chuyển giao kỹ năng.",
+        "Thu hồi vốn chậm."
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "B",
+      "explanation": "Đáp án chính xác B theo bản chuẩn PDF Trắc nghiệm KDQT."
+    },
+    {
+      "id": "tn_c34_4",
+      "num": 4,
+      "question": "Sự hấp dẫn của một thị trường đối với doanh nghiệp phụ thuộc vào điều gì?",
+      "options": [
+        "Sự cân bằng giữa lợi ích, chi phí và rủi ro liên quan tới hoạt động kinh doanh tại thị trường đó.",
+        "Khả năng thâm nhập ngành của các doanh nghiệp khác làm tăng mức độ cạnh tranh trong thị trường.",
+        "Khả năng rút khỏi lĩnh vực kinh doanh của một số ngành khác, đặc biệt ảnh hưởng đến cấu trúc và sự ổn định của thị trường.",
+        "Sản phẩm và dịch vụ của doanh nghiệp, bao gồm năng lực sản xuất và phân phối trên thị trường."
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "A",
+      "explanation": "Đáp án chính xác A theo bản chuẩn PDF Trắc nghiệm KDQT."
+    },
+    {
+      "id": "tn_c34_5",
+      "num": 5,
+      "question": "Loại liên minh nào được xây dựng dựa trên cơ sở niềm tin phát triển qua thời gian và là sự nối dài từ những thành công của liên minh tạm thời?",
+      "options": [
+        "Liên minh toàn diện.",
+        "Liên minh góp vốn.",
+        "Liên minh bền vững.",
+        "Liên minh tài chính."
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "C",
+      "explanation": "Đáp án chính xác C theo bản chuẩn PDF Trắc nghiệm KDQT."
+    },
+    {
+      "id": "tn_c34_6",
+      "num": 6,
+      "question": "Bất lợi của doanh nghiệp khi tham gia vào thị trường nước ngoài với tư cách là người đi trước là gì?",
+      "options": [
+        "Chi phí kinh doanh thất bại, chi phí khai thác, bao gồm chi phí quảng cáo, thiết lập việc cung cấp sản phẩm cũng như chi phí hướng dẫn khách hàng.",
+        "Doanh nghiệp bị động trong việc thiết lập giá hoặc không thể tạo dựng được lòng trung thành với thương hiệu từ phía khách hàng.",
+        "Bộ máy quản lý bị phình to, quá tải do doanh nghiệp phải vận hành nhiều nhà máy sản xuất quy mô lớn tại nước sở tại.",
+        "Chu kỳ sống của sản phẩm bị rút ngắn đáng kể do doanh nghiệp không kịp thay đổi công nghệ để bắt kịp thị hiếu của thị trường."
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "A",
+      "explanation": "Đáp án chính xác A theo bản chuẩn PDF Trắc nghiệm KDQT."
+    },
+    {
+      "id": "tn_c34_7",
+      "num": 7,
+      "question": "Đâu không phải là một sự đánh đổi mà doanh nghiệp phải đối mặt khi lựa chọn phương thức gia nhập thị trường quốc tế?",
+      "options": [
+        "Mức độ kiểm soát cao đòi hỏi cam kết nguồn lực lớn từ công ty mẹ.",
+        "Doanh nghiệp trở nên kém linh hoạt hơn trong việc tái định hình các hoạt động khi đã gắn bó lâu dài với thị trường nước ngoài.",
+        "Tham gia lâu dài phải chịu rủi ro từ môi trường chính trị và người tiêu dùng không ổn định.",
+        "Phương thức có mức kiểm soát cao giúp doanh nghiệp tránh được rủi ro từ môi trường nước ngoài."
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "D",
+      "explanation": "Đáp án chính xác D theo bản chuẩn PDF Trắc nghiệm KDQT."
+    },
+    {
+      "id": "tn_c34_8",
+      "num": 8,
+      "question": "Nếu năng lực cốt lõi là …… thì nên tránh các thỏa thuận cấp phép, nhượng quyền thương mại hoặc liên doanh, trừ khi có cơ chế ràng buộc hoặc lợi thế đó chỉ mang tính tạm thời. Chỗ trống đó là gì?",
+      "options": [
+        "Bí quyết quản lý.",
+        "Bí quyết công nghệ.",
+        "Bí quyết sản xuất và vận hành.",
+        "Bí quyết xây dựng thương hiệu."
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "B",
+      "explanation": "Đáp án chính xác B theo bản chuẩn PDF Trắc nghiệm KDQT."
+    },
+    {
+      "id": "tn_c34_9",
+      "num": 9,
+      "question": "Chi phí đi tiên phong là một bất lợi của người đi trước nhưng có thể mang lại lợi ích gì cho người đi sau?",
+      "options": [
+        "Giúp người đi sau tăng chi phí quảng cáo và thiết lập sản phẩm.",
+        "Giúp người đi sau thuận lợi từ việc quan sát và học hỏi.",
+        "Giúp người đi sau chiếm lĩnh toàn bộ chi phí tiền gửi của khách hàng.",
+        "Giúp người đi sau của công ty mẹ phải là người thương mại toàn diện."
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "B",
+      "explanation": "Đáp án chính xác B theo bản chuẩn PDF Trắc nghiệm KDQT."
+    },
+    {
+      "id": "tn_c34_10",
+      "num": 10,
+      "question": "Đâu là mối lo ngại lớn nhất khi doanh nghiệp quyết định tham gia vào một liên minh chiến lược?",
+      "options": [
+        "Liên minh chiến lược sẽ làm gia tăng các thủ tục hành chính phức tạp và kéo dài thời gian ra quyết định của ban điều hành.",
+        "Liên minh chiến lược sẽ dẫn đến sự bất đồng ngôn ngữ và xung đột sâu sắc về văn hóa doanh nghiệp giữa các quốc gia.",
+        "Liên minh chiến lược sẽ đòi hỏi một nguồn ngân sách đầu tư ban đầu quá lớn, vượt quá khả năng tài chính của các bên.",
+        "Liên minh chiến lược giúp cho các đối thủ có một con đường ít tốn kém để tiếp cận với thị trường và công nghệ mới."
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "D",
+      "explanation": "Đáp án chính xác D theo bản chuẩn PDF Trắc nghiệm KDQT."
+    },
+    {
+      "id": "tn_c56_1",
+      "num": 1,
+      "question": "Cơ cấu dọc trong cơ cấu tổ chức đề cập đến việc gì?",
+      "options": [
+        "Sự phân chia chính thức của các bộ phận trong tổ chức.",
+        "Mối quan hệ giữa bộ phận quốc tế và bộ phận nội địa.",
+        "Vị trí của hệ thống trách nhiệm ra quyết định trong tổ chức.",
+        "Các cơ chế tích hợp để phối hợp các hoạt động chức năng."
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "C",
+      "explanation": "Đáp án chính xác C theo bản chuẩn PDF Trắc nghiệm KDQT."
+    },
+    {
+      "id": "tn_c56_2",
+      "num": 2,
+      "question": "Tâm điểm chính của cơ chế phối hợp phi chính thức là gì?",
+      "options": [
+        "Các ủy ban theo khu vực địa lý.",
+        "Mạng lưới tri thức.",
+        "Cấu trúc ma trận cứng nhắc.",
+        "Hệ thống văn bản quy định pháp lý."
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "B",
+      "explanation": "Đáp án chính xác B theo bản chuẩn PDF Trắc nghiệm KDQT."
+    },
+    {
+      "id": "tn_c56_3",
+      "num": 3,
+      "question": "Trong bối cảnh toàn cầu hóa kinh tế, có hai áp lực tồn tại song song là áp lực giảm chi phí và áp lực thích nghi địa phương, các doanh nghiệp đa quốc gia có xu hướng sử dụng chiến lược xuyên quốc gia. Khi đó họ phải đồng thời tập trung vào việc khai thác hiệu ứng kinh nghiệm và lợi thế địa điểm, cùng lúc với thích nghi địa phương cũng như chuyển giao nội bộ các năng lực cốt lõi. Vì vậy doanh nghiệp nên sử dụng cấu trúc tổ chức nào sau đây cho phù hợp?",
+      "options": [
+        "Cấu trúc ma trận toàn cầu.",
+        "Cấu trúc sản phẩm toàn cầu.",
+        "Cấu trúc bộ phận quốc tế.",
+        "Cấu trúc khu vực toàn cầu."
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "A",
+      "explanation": "Đáp án chính xác A theo bản chuẩn PDF Trắc nghiệm KDQT."
+    },
+    {
+      "id": "tn_c56_4",
+      "num": 4,
+      "question": "Trong mối quan hệ giữa các chiến lược kinh doanh quốc tế, nhu cầu phối hợp giữa các đơn vị trong tổ chức được sắp xếp theo thứ tự tăng dần như thế nào?",
+      "options": [
+        "Quốc tế – Địa phương hóa – Tiêu chuẩn hóa toàn cầu – Xuyên quốc gia.",
+        "Địa phương hóa – Quốc tế – Tiêu chuẩn hóa toàn cầu – Xuyên quốc gia.",
+        "Tiêu chuẩn hóa toàn cầu – Quốc tế – Địa phương hóa – Xuyên quốc gia.",
+        "Xuyên quốc gia – Tiêu chuẩn hóa toàn cầu – Quốc tế – Địa phương hóa."
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "B",
+      "explanation": "Đáp án chính xác B theo bản chuẩn PDF Trắc nghiệm KDQT."
+    },
+    {
+      "id": "tn_c56_5",
+      "num": 5,
+      "question": "Trong hệ thống phân phối, mối quan hệ giữa mức độ tập trung của ngành bán lẻ và chiều dài kênh thường là:",
+      "options": [
+        "Hệ thống bán lẻ càng tập trung vào doanh nghiệp lớn thì kênh phân phối càng dài.",
+        "Không có mối liên hệ nào giữa sự tập trung bán lẻ và chiều dài kênh.",
+        "Hệ thống bán lẻ phân mảnh giúp rút ngắn chiều dài kênh.",
+        "Hệ thống bán lẻ càng tập trung thì kênh phân phối có xu hướng càng ngắn."
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "D",
+      "explanation": "Đáp án chính xác D theo bản chuẩn PDF Trắc nghiệm KDQT."
+    },
+    {
+      "id": "tn_c56_6",
+      "num": 6,
+      "question": "Hiệu ứng nguồn ảnh hưởng đến tín hiệu truyền thông quốc tế như thế nào?",
+      "options": [
+        "Gia tăng mức độ nhiễu của thông điệp quảng cáo trong quá trình truyền khiến người nhận không thể tiếp nhận đúng nội dung người gửi muốn truyền đạt",
+        "Khách hàng đánh giá thông điệp dựa trên hình ảnh hoặc địa vị của người gửi thông điệp",
+        "Gây hiểu nhầm về văn hóa trong chiến dịch truyền thông quốc tế",
+        "Giảm đáng kể chi phí thuê của các đại lý quảng cáo địa phương"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "B",
+      "explanation": "Đáp án chính xác B theo bản chuẩn PDF Trắc nghiệm KDQT."
+    },
+    {
+      "id": "tn_c56_7",
+      "num": 7,
+      "question": "Việc định giá theo đường cong kinh nghiệm có thể khiến doanh nghiệp gặp rủi ro pháp lý nào?",
+      "options": [
+        "Bị cáo buộc vi phạm quy định chống bán phá giá vì đặt mức giá thấp hơn chi phí sản xuất hiện tại",
+        "Vi phạm luật bảo hộ quyền sở hữu trí tuệ của nước sở tại do những khác biệt trong hệ thống pháp luật và cách thức đăng ký bảo vệ quyền",
+        "Bị đánh thuế tiêu thụ đặc biệt do sản lượng bán ra quá lớn gây ảnh hưởng đến thị trường nội địa của quốc gia nhập khẩu",
+        "Không thể áp dụng chiến lược phân biệt giá tại các thị trường khác"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "A",
+      "explanation": "Đáp án chính xác A theo bản chuẩn PDF Trắc nghiệm KDQT."
+    },
+    {
+      "id": "tn_c56_8",
+      "num": 8,
+      "question": "Điểm khác biệt cốt lõi giữa định giá cướp đoạt và định giá đa điểm là gì?",
+      "options": [
+        "Định giá cướp đoạt nhắm vào lợi ích dài hạn, còn định giá đa điểm nhắm vào lợi nhuận ngắn hạn",
+        "Định giá cướp đoạt dùng giá để loại bỏ đối thủ cạnh tranh, còn định giá đa điểm là sự phản ứng về giá tại thị trường này dựa trên hành động của đối thủ tại thị trường khác",
+        "Định giá cướp đoạt chỉ áp dụng cho doanh nghiệp lớn, còn định giá đa điểm áp dụng cho mọi ngành nghề",
+        "Định giá cướp đoạt vi phạm luật chống bán phá giá, còn định giá đa điểm thì không"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "B",
+      "explanation": "Đáp án chính xác B theo bản chuẩn PDF Trắc nghiệm KDQT."
+    },
+    {
+      "id": "tn_c7_1",
+      "num": 1,
+      "question": "Khi quyết định địa điểm sản xuất dựa trên yếu tố công nghệ, nếu mức chi phí cố định của một nhà máy sản xuất rất cao, doanh nghiệp nên ưu tiên chiến lược nào?",
+      "options": [
+        "Sản xuất tập trung tại một hoặc một số ít cơ sở để phục vụ thị trường toàn cầu",
+        "Sản xuất phân tán tại nhiều quốc gia để đáp ứng nhu cầu địa phương",
+        "Thuê ngoài toàn bộ quá trình sản xuất ở các nước đang phát triển",
+        "Xây dựng nhà máy tại tất cả thị trường mà công ty có mặt"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "A",
+      "explanation": "Đáp án chính xác A theo bản chuẩn PDF Trắc nghiệm KDQT."
+    },
+    {
+      "id": "tn_c7_2",
+      "num": 2,
+      "question": "Lợi thế nào của việc áp dụng hệ thống trao đổi dữ liệu điện tử (EDI) trong quản trị chuỗi cung ứng?",
+      "options": [
+        "Tất cả các đối tượng tham gia chuỗi có thể liên lạc ngay lập tức, linh hoạt và xử lý kịp thời các vấn đề phát sinh",
+        "Loại bỏ hoàn toàn sự cần thiết phải cung cấp trung gian trong chuỗi cung ứng, giúp doanh nghiệp có thể kiểm soát trực tiếp toàn bộ hoạt động phân phối và sản xuất",
+        "Buộc khách hàng và các đối tác trong chuỗi phải tự quản lý toàn bộ lượng hàng tồn kho của mình",
+        "Đảm bảo tỷ giá hối đoái giữa các quốc gia luôn duy trì ở mức ổn định"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "A",
+      "explanation": "Đáp án chính xác A theo bản chuẩn PDF Trắc nghiệm KDQT."
+    },
+    {
+      "id": "tn_c7_3",
+      "num": 3,
+      "question": "Trong quá trình dịch vụ quốc tế, hoạch định nào đề cập đến việc quyết định công ty sẽ phục vụ bao nhiêu khách hàng tại một thời điểm hay giai đoạn nhất định?",
+      "options": [
+        "Hoạch định công suất",
+        "Hoạch định địa điểm",
+        "Thiết kế cơ sở sản xuất",
+        "Lên lịch hoạt động"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "A",
+      "explanation": "Đáp án chính xác A theo bản chuẩn PDF Trắc nghiệm KDQT."
+    },
+    {
+      "id": "tn_c7_4",
+      "num": 4,
+      "question": "Vì sao tài sản chuyên biệt hóa cao khiến doanh nghiệp thường có xu hướng tự sản xuất nhiều hơn?",
+      "options": [
+        "Việc đầu tư vào tài sản mang tính chuyên biệt cao thường đi kèm với nguy cơ rò rỉ công nghệ, tri thức cốt lõi khiến doanh nghiệp phải đối mặt với rủi ro mất lợi thế cạnh tranh trong dài hạn",
+        "Tài sản chuyên biệt hóa sinh ra sự phụ thuộc lẫn nhau, tạo ra tâm lý thiếu tin tưởng, lo sợ bị mất lợi thế thương lượng, bị ép giá hoặc rơi vào bế tắc kinh doanh từ cả hai phía",
+        "Môi trường pháp lý tại quốc gia sở tại thường đặt ra các rào cản, quy định hạn chế việc chia sẻ quyền sở hữu tài sản quan trọng",
+        "Việc đầu tư vào tài sản chuyên biệt hóa thường đòi hỏi chi phí ban đầu rất lớn, kéo theo áp lực tài chính đáng kể khiến doanh nghiệp có xu hướng muốn kiểm soát trực tiếp quá trình vận hành để đảm bảo hiệu quả sử dụng vốn"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "B",
+      "explanation": "Đáp án chính xác B theo bản chuẩn PDF Trắc nghiệm KDQT."
+    },
+    {
+      "id": "tn_c7_5",
+      "num": 5,
+      "question": "Vì sao công nghệ sản xuất linh hoạt giúp doanh nghiệp giải quyết sự đánh đổi giữa chi phí và tính đa dạng hóa sản phẩm?",
+      "options": [
+        "Vì cho phép sản xuất sản phẩm đa dạng ở mức chi phí đơn vị trước đây chỉ đạt được bằng sản xuất hàng loạt mang tính tiêu chuẩn hóa",
+        "Vì buộc doanh nghiệp phải đồng nhất hóa toàn bộ quy trình sản xuất duy nhất",
+        "Vì làm tăng thời gian thiết lập máy móc để tập trung vào chất lượng",
+        "Vì loại bỏ hoàn toàn nhu cầu cải tiến, kiểm soát chất lượng"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "A",
+      "explanation": "Đáp án chính xác A theo bản chuẩn PDF Trắc nghiệm KDQT."
+    },
+    {
+      "id": "tn_c7_6",
+      "num": 6,
+      "question": "Lý do cốt lõi nào khiến việc thuê ngoài có thể giúp giảm chi phí trong bối cảnh cấu trúc tổ chức phức tạp?",
+      "options": [
+        "Thuê ngoài giúp doanh nghiệp biến đổi một phần chi phí cố định sang chi phí biến đổi, từ đó tăng tính linh hoạt tài chính và dễ dàng điều chỉnh theo biến động nhu cầu thị trường",
+        "Việc tự sản xuất làm tăng độ phức tạp của cơ cấu tổ chức, đồng thời các nhà cung cấp nội bộ thường thiếu sức ép cạnh tranh nên không có động lực để cắt giảm chi phí",
+        "Thuê ngoài cho phép doanh nghiệp tập trung nguồn lực vào năng lực cốt lõi, giảm sự phân tán trong quản lý, từ đó gián tiếp nâng cao hiệu quả hoạt động",
+        "Các nhà cung cấp quy mô lớn có mức độ chuyên môn hóa cao, quy trình chuẩn hóa giúp tối ưu hóa chi phí tốt hơn"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "B",
+      "explanation": "Đáp án chính xác B theo bản chuẩn PDF Trắc nghiệm KDQT."
+    },
+    {
+      "id": "tn_c7_7",
+      "num": 7,
+      "question": "Khi một doanh nghiệp quốc tế theo đuổi đồng thời hai mục tiêu là vừa giảm chi phí, vừa nâng cao chất lượng thì doanh nghiệp nên làm gì?",
+      "options": [
+        "Chấp nhận sự đánh đổi tức thời vì tăng chất lượng thường làm chi phí tăng và không thể giảm chi phí trong ngắn hạn",
+        "Không nên xem đây là sự đánh đổi tức thời, vì việc cải tiến kiểm soát chất lượng có thể làm tăng năng suất, giảm sản phẩm lỗi, giảm chi phí bảo hành và vận hành",
+        "Doanh nghiệp chỉ có thể giảm chi phí bằng cách bỏ qua một số khâu kiểm soát chất lượng",
+        "Doanh nghiệp nên tăng cường việc thuê ngoài để dễ dàng phân tán rủi ro trong quá trình sản xuất"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "B",
+      "explanation": "Đáp án chính xác B theo bản chuẩn PDF Trắc nghiệm KDQT."
+    },
+    {
+      "id": "tn_c7_8",
+      "num": 8,
+      "question": "Doanh nghiệp áp dụng Just-in-Time (JIT) triệt để và gần như không có hàng tồn kho an toàn. Khi nhà cung ứng bị gián đoạn do thiên tai, toàn bộ dây chuyền bị ngưng trệ. Nhận định nào sau đây là đúng?",
+      "options": [
+        "Đây là rủi ro của Just-in-Time vì một xáo trộn nhỏ trong chuỗi cung ứng nguyên vật liệu sẽ làm ảnh hưởng khiến toàn bộ chuỗi cung ứng bị bế tắc",
+        "Đây là ưu điểm của Just-in-Time vì không duy trì hàng tồn kho an toàn giúp doanh nghiệp phản ứng nhanh hơn trước biến động của nhà cung cấp và thị trường",
+        "Đây là lỗi của bộ phận marketing vì việc dây chuyền sản xuất bị ngưng trệ xuất phát từ việc dự báo nhu cầu không chuẩn xác",
+        "Đây là bằng chứng cho thấy Just-in-Time luôn phù hợp với mọi điều kiện vì không cần điều chỉnh quy trình hậu cần"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "A",
+      "explanation": "Đáp án chính xác A theo bản chuẩn PDF Trắc nghiệm KDQT."
+    },
+    {
+      "id": "tn_c7_9",
+      "num": 9,
+      "question": "Một quốc gia từng là nơi sản xuất có chi phí thấp, nhưng sau đó tiền tệ tăng giá và chi phí nhân công tăng. Nhận định nào sau đây là đúng?",
+      "options": [
+        "Quốc gia đó có thể trở nên kém hấp dẫn hơn vì sự tăng giá của tiền tệ và chi phí lao động sẽ làm tăng chi phí sản xuất",
+        "Nơi đó chắc chắn sẽ hấp dẫn hơn vì tiền tệ tăng luôn làm cho chi phí sản xuất giảm",
+        "Doanh nghiệp không cần quan tâm tới tỷ giá vì tỷ giá không ảnh hưởng tới lựa chọn địa điểm sản xuất",
+        "Doanh nghiệp chỉ cần xem xét văn hóa tiêu dùng, không cần xem xét chi phí nhân công"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "A",
+      "explanation": "Đáp án chính xác A theo bản chuẩn PDF Trắc nghiệm KDQT."
+    },
+    {
+      "id": "tn_c7_10",
+      "num": 10,
+      "question": "Điểm khác biệt căn bản biến một nhà máy tự động hóa thông thường thành nhà máy thông minh trong thời đại công nghệ 4.0 là gì?",
+      "options": [
+        "Nhà máy thông minh ứng dụng các hệ thống trao đổi dữ liệu điện tử và tự động hóa quy trình chứng từ, giúp tăng tính lưu chuyển thông tin và giảm sai sót trong vận hành",
+        "Các máy móc, thiết bị có thể tự giao tiếp, ra quyết định thông minh với nhau qua điện toán đám mây; con người đóng vai trò hỗ trợ, điều hành quá trình sản xuất",
+        "Đảm bảo tính ổn định của hệ thống; nhà máy thông minh giới hạn việc thu thập và xử lý dữ liệu ở mức cần thiết, tránh phụ thuộc vào mạng internet",
+        "Nhà máy thông minh tích hợp hệ thống hoạch định nguồn nhân lực doanh nghiệp (ERP) ở mức cao, cho phép quản lý chung toàn bộ dữ liệu sản xuất và vận hành thông qua một nền tảng web thống nhất"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "B",
+      "explanation": "Đáp án chính xác B theo bản chuẩn PDF Trắc nghiệm KDQT."
+    },
+    {
+      "id": "tn_c8_1",
+      "num": 1,
+      "question": "Khác biệt nào giữa các quốc gia làm cho hoạt động quản trị nhân lực quốc tế trở nên phức tạp?",
+      "options": [
+        "Sự khác biệt về thị trường lao động, văn hóa, hệ thống pháp lý, hệ thống kinh tế và các yếu tố khác.",
+        "Sự khác biệt về trình độ công nghệ thông tin, phần mềm quản lý nhân sự giữa các vùng lãnh thổ.",
+        "Sự khác biệt về chiến lược kinh doanh, mô hình cấu trúc của các tập đoàn đa quốc gia.",
+        "Sự khác biệt về tiêu chuẩn tuyển dụng, chính sách đãi ngộ dành cho nhân sự tại văn phòng đại diện."
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "A",
+      "explanation": "Đáp án chính xác A theo bản chuẩn PDF Trắc nghiệm KDQT."
+    },
+    {
+      "id": "tn_c8_2",
+      "num": 2,
+      "question": "Các hoạt động nào về quản trị nhân lực sẽ trở nên phức tạp đối với một doanh nghiệp đa quốc gia?",
+      "options": [
+        "Đăng ký sở hữu trí tuệ, bảo hộ thương hiệu, kiểm toán tài chính.",
+        "Nghiên cứu thị trường, quảng cáo, thiết kế bao bì.",
+        "Quản trị chuỗi cung ứng, vận chuyển hàng hóa, lưu kho bãi.",
+        "Tuyển dụng nhân sự, phát triển quản lý, năng lực, lương bổng."
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "D",
+      "explanation": "Đáp án chính xác D theo bản chuẩn PDF Trắc nghiệm KDQT."
+    },
+    {
+      "id": "tn_c8_3",
+      "num": 3,
+      "question": "Để khắc phục sự thiếu hụt về cán bộ quản lý có trình độ cao ở các nước đang phát triển, doanh nghiệp ở các nước phát triển nên làm gì khi đặt chi nhánh tại các nước đang phát triển?",
+      "options": [
+        "Tuyển dụng quản lý từ thị trường lao động địa phương.",
+        "Bổ nhiệm quản lý dựa trên thâm niên làm việc.",
+        "Áp dụng chương trình đào tạo chung cho các chi nhánh.",
+        "Áp dụng chính sách vị chủng."
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "D",
+      "explanation": "Đáp án chính xác D theo bản chuẩn PDF Trắc nghiệm KDQT."
+    },
+    {
+      "id": "tn_c8_4",
+      "num": 4,
+      "question": "Khả năng nhận thức trong tuyển chọn chuyên gia có nghĩa là gì?",
+      "options": [
+        "Khả năng nói nhiều ngoại ngữ.",
+        "Khả năng giải quyết các bài toán kỹ thuật.",
+        "Sự thấu cảm và hiểu các hành vi văn hóa khác biệt.",
+        "Nhận biết được các đối thủ cạnh tranh."
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "C",
+      "explanation": "Đáp án chính xác C theo bản chuẩn PDF Trắc nghiệm KDQT."
+    },
+    {
+      "id": "tn_c8_5",
+      "num": 5,
+      "question": "Mối e ngại lớn nhất của công đoàn về các công ty đa quốc gia là gì?",
+      "options": [
+        "Công ty đa quốc gia có cơ cấu tổ chức phức tạp nên khó xác định rõ trách nhiệm của từng cấp quản lý.",
+        "Công ty sử dụng nhiều tiêu chuẩn quản trị và quy định nội bộ khác nhau giữa các quốc gia và chi nhánh.",
+        "Công ty thường có các quyết định quan trọng từ trụ sở nước ngoài thay vì chi nhánh địa phương.",
+        "Công ty có thể đe dọa chuyển dịch sản xuất sang nước khác để hạn chế sức mạnh đàm phán của công đoàn."
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "D",
+      "explanation": "Đáp án chính xác D theo bản chuẩn PDF Trắc nghiệm KDQT."
+    },
+    {
+      "id": "tn_c8_6",
+      "num": 6,
+      "question": "Chính sách đa tâm sẽ phù hợp nhất với chiến lược nào?",
+      "options": [
+        "Chiến lược tiêu chuẩn hóa toàn cầu.",
+        "Chiến lược quốc tế.",
+        "Chiến lược địa phương hóa.",
+        "Chiến lược xuyên quốc gia."
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "C",
+      "explanation": "Đáp án chính xác C theo bản chuẩn PDF Trắc nghiệm KDQT."
+    },
+    {
+      "id": "tn_c8_7",
+      "num": 7,
+      "question": "Sự thiển cận về văn hóa có thể gây ra hậu quả gì đối với doanh nghiệp đa quốc gia?",
+      "options": [
+        "Có thể dẫn đến sai lầm trong marketing và quản lý, nguy cơ thất bại cho công ty, nhà quản lý có thể mắc sai lầm lớn trong thời gian thích nghi.",
+        "Có thể khiến cho doanh nghiệp phải dành nhiều thời gian, nhiều nguồn lực hơn cho việc xây dựng chương trình đào tạo do văn hóa giữa các chi nhánh ở những quốc gia khác nhau.",
+        "Có thể làm nhà quản lý tập trung nhiều hơn vào việc áp dụng các quy trình quản trị quen thuộc của công ty mẹ trong hoạt động quốc tế.",
+        "Có thể khiến doanh nghiệp ưu tiên duy trì các chính sách và phương thức quản lý đã được áp dụng tại trụ sở chính khi triển khai hoạt động ở nước ngoài."
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "A",
+      "explanation": "Đáp án chính xác A theo bản chuẩn PDF Trắc nghiệm KDQT."
+    },
+    {
+      "id": "tn_c8_8",
+      "num": 8,
+      "question": "Khi doanh nghiệp giao chi nhánh nước ngoài cho nhà quản trị địa phương thì có thể dẫn đến rủi ro gì?",
+      "options": [
+        "Các nhà quản trị địa phương thường đưa ra quyết định dựa trên sự hiểu biết về thị trường và môi trường kinh doanh tại nước sở tại.",
+        "Các nhà quản trị địa phương có xu hướng điều chỉnh hoạt động kinh doanh để phù hợp hơn với nhu cầu của thị trường, khách hàng địa phương và đặc điểm cạnh tranh tại nước sở tại.",
+        "Chi nhánh nước ngoài có thể áp dụng các phương thức quản lý và vận hành phù hợp với bối cảnh kinh tế, xã hội và môi trường kinh doanh của quốc gia sở tại.",
+        "Chi nhánh nước ngoài có thể trở thành một đơn vị kinh doanh độc lập với các chi nhánh nước ngoài khác, thậm chí công ty mẹ có thể bị cô lập với công ty con ở địa phương."
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "D",
+      "explanation": "Đáp án chính xác D theo bản chuẩn PDF Trắc nghiệm KDQT."
+    },
+    {
+      "id": "tn_c8_9",
+      "num": 9,
+      "question": "Tại sao trước đây hầu hết quan hệ lao động quốc tế thường được phi tập trung hóa cho các chi nhánh ở các nước?",
+      "options": [
+        "Vì các chi nhánh ở từng quốc gia thường có điều kiện thị trường, văn hóa kinh doanh và nhu cầu nhân lực khác nhau.",
+        "Vì luật lao động, quyền lực công đoàn và bản chất của đàm phán tập thể thay đổi rõ rệt từ quốc gia này sang quốc gia khác.",
+        "Vì các chi nhánh ở từng quốc gia thường được trao quyền chủ động trong việc quản lý các vấn đề nhân sự.",
+        "Các doanh nghiệp quốc tế muốn tăng tính linh hoạt trong việc xây dựng chính sách lương, thưởng và phúc lợi."
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "B",
+      "explanation": "Đáp án chính xác B theo bản chuẩn PDF Trắc nghiệm KDQT."
+    },
+    {
+      "id": "tn_c8_10",
+      "num": 10,
+      "question": "Sai lầm nào của doanh nghiệp trong khâu tuyển chọn dẫn đến thất bại điều động?",
+      "options": [
+        "Doanh nghiệp chỉ tập trung vào việc tuyển dụng những người biết ngoại ngữ từ nhỏ.",
+        "Trả mức thù lao quá chênh lệch giữa các quốc gia.",
+        "Đánh giá năng lực nội địa và nước ngoài như nhau, nhưng thực chất thì không.",
+        "Không hỏi ý kiến của tổ chức công đoàn trước khi điều động."
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "C",
+      "explanation": "Đáp án chính xác C theo bản chuẩn PDF Trắc nghiệm KDQT."
+    },
+    {
+      "id": "tn_c9_1",
+      "num": 1,
+      "question": "Nhóm quyết định liên quan đến quản trị tài chính quốc tế là:",
+      "options": [
+        "Đầu tư, tài chính và quản lý tiền tệ.",
+        "Đầu tư, tài trợ và quản trị rủi ro tài chính.",
+        "Đầu tư, huy động vốn và quản lý tiền tệ.",
+        "Đầu tư, tài trợ và quản lý nguồn vốn lưu động toàn cầu."
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "A",
+      "explanation": "Đáp án chính xác A theo bản chuẩn PDF Trắc nghiệm KDQT."
+    },
+    {
+      "id": "tn_c9_2",
+      "num": 2,
+      "question": "Trong kinh doanh quốc tế, các quyết định đầu tư, tài chính và quản lý tiền tệ thường:",
+      "options": [
+        "Phức tạp do sự khác biệt về tiền tệ, thuế, quy định dòng tiền và rủi ro kinh tế - chính trị.",
+        "Ít chịu ảnh hưởng bởi hệ thống thuế, tỷ giá hối đoái và quy định tài chính.",
+        "Chỉ liên quan tới hoạt động mang tính quốc tế, vì quyết định tài chính không ảnh hưởng đáng kể đến đầu tư, sản xuất và dòng tiền của doanh nghiệp.",
+        "Đơn giản hơn so với kinh doanh nội địa vì các quốc gia sử dụng chung một hệ thống tiền tệ và có chính sách tài chính hẹp."
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "A",
+      "explanation": "Đáp án chính xác A theo bản chuẩn PDF Trắc nghiệm KDQT."
+    },
+    {
+      "id": "tn_c9_3",
+      "num": 3,
+      "question": "Khi hàng hóa và dịch vụ được chuyển giao giữa công ty mẹ và các chi nhánh nước ngoài, thì doanh nghiệp nên sử dụng kỹ thuật chuyển tiền nào?",
+      "options": [
+        "Chuyển giá.",
+        "Chuyển trả cổ tức.",
+        "Thanh toán phí bản quyền và lệ phí.",
+        "Sử dụng cơ chế thanh toán nội bộ không chính thức."
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "A",
+      "explanation": "Đáp án chính xác A theo bản chuẩn PDF Trắc nghiệm KDQT."
+    },
+    {
+      "id": "tn_c9_4",
+      "num": 4,
+      "question": "Kỹ thuật chuyển tiền bằng cách để công ty mẹ ký quỹ tại một ngân hàng quốc tế, sau đó ngân hàng đó sẽ cho chi nhánh nước ngoài vay tương ứng được gọi là:",
+      "options": [
+        "Khoản nợ vay trước (Fronting loans).",
+        "Chuyển tiền thông qua thanh toán lệ phí dịch vụ nội bộ giữa công ty mẹ và chi nhánh.",
+        "Chuyển trả cổ tức.",
+        "Thanh toán phí bản quyền và lệ phí."
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "A",
+      "explanation": "Đáp án chính xác A theo bản chuẩn PDF Trắc nghiệm KDQT."
+    },
+    {
+      "id": "tn_c9_5",
+      "num": 5,
+      "question": "Mục đích của quyết định tài chính trong quản trị tài chính quốc tế là gì?",
+      "options": [
+        "Quyết định hoạt động nào nên được đầu tư, mở rộng ở thị trường nước ngoài.",
+        "Quyết định cách thức quảng bá sản phẩm tại nước ngoài.",
+        "Quyết định loại bỏ toàn bộ rủi ro chính trị.",
+        "Quyết định làm thế nào tìm được nguồn vốn cho các hoạt động đầu tư."
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "D",
+      "explanation": "Đáp án chính xác D theo bản chuẩn PDF Trắc nghiệm KDQT."
+    },
+    {
+      "id": "tn_c9_6",
+      "num": 6,
+      "question": "Quản lý tài chính quốc tế cần giúp doanh nghiệp bảo vệ mình trước loại rủi ro nào?",
+      "options": [
+        "Rủi ro kinh tế - chính trị.",
+        "Rủi ro thay đổi mẫu mã bao bì.",
+        "Rủi ro thay đổi khẩu hiệu quảng cáo.",
+        "Rủi ro lựa chọn kênh truyền thông."
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "A",
+      "explanation": "Đáp án chính xác A theo bản chuẩn PDF Trắc nghiệm KDQT."
+    },
+    {
+      "id": "tn_c9_7",
+      "num": 7,
+      "question": "Công ty mẹ có xu hướng đẩy mạnh yêu cầu chi nhánh nước ngoài chuyển trả tiền cổ tức về nước trong bối cảnh nào?",
+      "options": [
+        "Chi nhánh mới được thành lập và đang trong giai đoạn đầu tư mở rộng hoạt động sản xuất kinh doanh, có nhu cầu rất lớn về vốn.",
+        "Rủi ro tỷ giá hối đoái tại nước sở tại ở mức cao, khiến công ty muốn rút doanh thu về càng sớm càng tốt để bảo toàn giá trị.",
+        "Chi nhánh có tỷ lệ sở hữu và quyền chi phối đáng kể thuộc về các cổ đông tại nước sở tại, dẫn đến việc quyết định tài chính phải cân nhắc đến lợi ích của các cổ đông.",
+        "Quốc gia nước sở tại đang áp dụng mức thuế đánh vào cổ tức cực kỳ cao."
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "B",
+      "explanation": "Đáp án chính xác B theo bản chuẩn PDF Trắc nghiệm KDQT."
+    },
+    {
+      "id": "tn_c9_8",
+      "num": 8,
+      "question": "Một dự án đầu tư nước ngoài có lợi nhuận cao tại nước sở tại, nhưng quốc gia đó áp dụng hạn chế chuyển tiền, thuế suất cao và yêu cầu tái đầu tư một phần lợi nhuận lại cho địa phương, nhận định nào sau đây là đúng?",
+      "options": [
+        "Công ty mẹ cần đánh giá dưới góc nhìn của dòng tiền thật sự nhận được, vì các hạn chế này có thể ảnh hưởng tới giá trị hiện tại ròng của dự án đối với công ty mẹ.",
+        "Công ty mẹ chỉ cần xem xét lợi nhuận kế toán được ghi nhận tại nước sở tại, vì lợi nhuận cao luôn phản ánh đầy đủ hiệu quả tài chính của dự án đầu tư quốc tế đối với công ty mẹ.",
+        "Các hạn chế chuyển tiền, thuế suất cao và yêu cầu tái đầu tư tại địa phương thường làm tăng giá trị hiện tại ròng của dự án đối với công ty mẹ.",
+        "Thuế suất, quy định chuyển lợi nhuận và tỷ lệ tái đầu tư tại nước sở tại chủ yếu là vấn đề kế toán nội bộ, không ảnh hưởng đến quyết định đầu tư quốc tế."
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "A",
+      "explanation": "Đáp án chính xác A theo bản chuẩn PDF Trắc nghiệm KDQT."
+    },
+    {
+      "id": "tn_c9_9",
+      "num": 9,
+      "question": "Hậu quả của việc chính phủ tăng lượng cung nội tệ một cách không kế hoạch để kích thích phát triển kinh tế là gì?",
+      "options": [
+        "Sẽ làm giảm lãi suất vay nợ trên thị trường nội địa, từ đó khiến cho các tổ chức tài chính, ngân hàng thương mại gặp khó khăn trong việc huy động vốn trung và dài hạn, do lợi nhuận từ hoạt động cho vay bị thu hẹp.",
+        "Dẫn đến việc quốc hữu hóa tài sản một cách không chính thức thông qua các biện pháp can thiệp gián tiếp của chính phủ, gây kiểm soát chặt chẽ hoạt động doanh nghiệp.",
+        "Gây ra tình trạng thiếu hụt hàng hóa trầm trọng trên thị trường do sự mất cân đối giữa cung - cầu và làm gián đoạn chuỗi cung ứng sản xuất.",
+        "Dẫn tới lạm phát giá cả, làm giảm giá trị đồng tiền quốc gia trên thị trường hối đoái, kéo theo sự suy giảm giá trị dòng tiền nhận được từ tài sản của công ty nước ngoài."
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "D",
+      "explanation": "Đáp án chính xác D theo bản chuẩn PDF Trắc nghiệm KDQT."
+    },
+    {
+      "id": "tn_c9_10",
+      "num": 10,
+      "question": "Một chi nhánh nước ngoài có thể huy động vốn bằng nợ hoặc vốn chủ sở hữu, khi đó doanh nghiệp quốc tế nên lựa chọn cấu trúc tài chính nào cho phù hợp?",
+      "options": [
+        "Nên chấp nhận cấu trúc tài chính tại chi nhánh sao cho cùng một tỷ lệ nợ và vốn chủ sở hữu trong mọi quốc gia.",
+        "Nên chấp nhận cấu trúc tài chính tại chi nhánh sao cho tránh sử dụng nợ vay trong mọi trường hợp.",
+        "Nên chấp nhận cấu trúc tài chính tại chi nhánh sao cho chi phí vốn là tối thiểu nhất.",
+        "Nên chấp nhận cấu trúc tài chính tại chi nhánh sao cho chi phí vốn cao."
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "C",
+      "explanation": "Đáp án chính xác C theo bản chuẩn PDF Trắc nghiệm KDQT."
+    }
+  ]
+}

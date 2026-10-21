@@ -53,6 +53,11 @@
           <span>File PDF</span>
           <span class="nav-tab-badge">755</span>
         </button>
+        <button class="nav-tab-btn" data-tab="tracnghiem" id="tab-nav-tracnghiem">
+          <span>🎯</span>
+          <span>Trắc Nghiệm</span>
+          <span class="nav-tab-badge">48</span>
+        </button>
       </nav>
 
       <!-- Actions: Search, Sound, Theme -->
@@ -80,11 +85,14 @@
       <div class="hero-card">
         <h1 class="hero-title">Ôn Thi Kinh Doanh Quốc Tế</h1>
         <p class="hero-desc">
-          Hệ thống ngân hàng <strong>1,055 câu hỏi trắc nghiệm</strong> được chia thành <strong>31 bộ quiz</strong> chuẩn theo từng chương mục từ 2 bộ tài liệu Word và PDF. Sẵn sàng ôn luyện mọi lúc mọi nơi trên điện thoại và máy tính!
+          Hệ thống ngân hàng <strong>1,103 câu hỏi trắc nghiệm</strong> được chia thành <strong>37 bộ quiz</strong> chuẩn theo từng chương mục từ 3 bộ tài liệu (Word 300 câu, PDF 755 câu và PDF Trắc nghiệm 48 câu). Sẵn sàng ôn luyện mọi lúc mọi nơi trên điện thoại và máy tính!
         </p>
         <div style="display: flex; gap: 0.75rem; flex-wrap: wrap;">
           <button class="btn btn-primary" id="btn-quick-word">
             ⚡ Luyện Nhanh Quiz 1 (File Word)
+          </button>
+          <button class="btn btn-primary" id="btn-quick-tracnghiem" style="background: var(--accent); color: #1e1e2d; font-weight: 700;">
+            🎯 Luyện Đề Mới (48 Câu)
           </button>
           <button class="btn btn-secondary" id="btn-quick-exam">
             ⏱ Đề Thi Thử 40 Câu Ngẫu Nhiên
@@ -124,7 +132,7 @@
         </div>
       </div>
 
-      <!-- Two Main Portals -->
+      <!-- Three Main Portals -->
       <div class="section-header">
         <h2 class="section-title">Chọn Nguồn Tài Liệu Ôn Tập</h2>
       </div>
@@ -162,6 +170,24 @@
           <div>
             <button class="btn btn-primary btn-block" data-tab="pdf" style="background: var(--secondary);">
               Khám Phá 24 Phần Quiz PDF →
+            </button>
+          </div>
+        </div>
+
+        <div class="quiz-card" style="border-left: 4px solid var(--accent);">
+          <div>
+            <div class="quiz-card-header">
+              <span class="quiz-tag" style="background: rgba(245, 158, 11, 0.15); color: var(--accent);">Tài Liệu 3 Mới</span>
+              <span class="quiz-meta-item">📝 48 câu</span>
+            </div>
+            <h3 class="quiz-card-title">Trắc Nghiệm KDQT Trọng Tâm</h3>
+            <p class="quiz-card-desc">
+              Tài liệu trắc nghiệm chuẩn hóa 48 câu hỏi qua 5 cụm chương chuyên sâu (Chương 3-4, 5-6, 7, 8, 9), có giải thích và highlight đáp án chính xác 100%.
+            </p>
+          </div>
+          <div>
+            <button class="btn btn-primary btn-block" data-tab="tracnghiem" style="background: var(--accent); color: #1e1e2d; font-weight: 700;">
+              Khám Phá 5 Cụm Trắc Nghiệm →
             </button>
           </div>
         </div>
@@ -207,6 +233,33 @@
       </div>
 
       <div id="pdf-chapters-container">
+        <!-- Rendered dynamically by JS -->
+      </div>
+    </section>
+
+    <!-- TAB 3: TRẮC NGHIỆM KDQT MỚI (48 QUESTIONS, 5 QUIZZES) -->
+    <section class="tab-view" id="view-tracnghiem">
+      <div class="section-header" style="justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 1rem;">
+        <div>
+          <h2 class="section-title">
+            <span>Trắc Nghiệm KDQT Trọng Tâm</span>
+            <span class="section-title-badge" style="background: rgba(245, 158, 11, 0.15); color: var(--accent); border-color: rgba(245, 158, 11, 0.3);">48 Câu • 5 Cụm Chương</span>
+          </h2>
+          <p style="color: var(--text-muted); font-size: 0.9rem; margin-top: 0.25rem;">
+            Trích xuất từ tài liệu <code>Tra_CC_86_CC_81c_20nghie_CC_A3_CC_82m_20KDQT.pdf.pdf</code> với 100% đáp án được highlight chuẩn xác.
+          </p>
+        </div>
+        <div style="display: flex; gap: 0.5rem; flex-wrap: wrap;">
+          <button class="btn btn-primary btn-sm" id="btn-tracnghiem-all-48">
+            ⚡ Luyện Toàn Bộ 48 Câu
+          </button>
+          <button class="btn btn-secondary btn-sm" id="btn-tracnghiem-exam-48">
+            ⏱ Thi Thử 48 Câu (45 Phút)
+          </button>
+        </div>
+      </div>
+
+      <div class="quiz-grid" id="tracnghiem-quizzes-grid">
         <!-- Rendered dynamically by JS -->
       </div>
     </section>
