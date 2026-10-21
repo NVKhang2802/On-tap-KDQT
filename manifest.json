@@ -1,0 +1,18 @@
+{
+  "name": "KDQT Quiz Master - Ôn Thi Kinh Doanh Quốc Tế",
+  "short_name": "KDQT Quiz",
+  "description": "Ứng dụng ôn tập trắc nghiệm môn Kinh Doanh Quốc Tế với 1,055 câu hỏi và 31 bộ quiz",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#4f46e5",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' rx='128' fill='%234f46e5'/><path d='M256 120L360 380H300L256 260L212 380H152L256 120Z' fill='white'/><circle cx='256' cy='180' r='24' fill='%2306b6d4'/></svg>",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

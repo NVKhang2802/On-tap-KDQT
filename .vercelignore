@@ -1,0 +1,20 @@
+# ==============================================================================
+# Vercel Ignore - KDQT Quiz Master
+# Không upload các file tài liệu gốc và python scripts lên Vercel
+# (Giữ lại data/ để web app trên Vercel có thể tải câu hỏi ôn tập)
+# ==============================================================================
+
+*.docx
+*.pdf
+*.doc
+att.8d8K8rB5aIFmEqzLSDW-OoyeOwmmeF7x0cwQQSoGrLo.docx
+TÀI LIỆU THI MÔN KDQT.pdf
+
+analyze_pdf.py
+scripts/
+*.py
+__pycache__/
+
+.git
+.github
+README.md

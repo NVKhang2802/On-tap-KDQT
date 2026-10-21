@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html lang="vi" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, user-scalable=yes, viewport-fit=cover">
+  <title>KDQT Quiz Master - Ôn Thi Kinh Doanh Quốc Tế</title>
+  <meta name="description" content="Hệ thống ôn thi trắc nghiệm môn Kinh Doanh Quốc Tế với 1,055 câu hỏi trích từ 2 bộ tài liệu Word và PDF 9 chương, hỗ trợ thi thử và luyện tập đa nền tảng.">
+  
+  <!-- PWA & Mobile Meta Tags -->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="theme-color" content="#4f46e5">
+  <link rel="manifest" href="manifest.json">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎓</text></svg>">
+
+  <!-- Typography: Google Fonts (Plus Jakarta Sans) -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+
+  <!-- Stylesheets -->
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/responsive.css">
+</head>
+<body>
+
+  <!-- =========================================================================
+       App Header & Global Navigation
+       ========================================================================= -->
+  <header class="app-header">
+    <div class="header-container">
+      <a href="#" class="brand-link" data-tab="home" id="brand-logo-link">
+        <div class="brand-badge">K</div>
+        <div class="brand-title">
+          <span>KDQT Quiz</span>
+          <span>Master 2026</span>
+        </div>
+      </a>
+
+      <!-- Navigation Tabs -->
+      <nav class="nav-tabs" aria-label="Điều hướng chính">
+        <button class="nav-tab-btn active" data-tab="home" id="tab-nav-home">
+          <span>🏠</span>
+          <span>Tổng Quan</span>
+        </button>
+        <button class="nav-tab-btn" data-tab="word" id="tab-nav-word">
+          <span>📄</span>
+          <span>File Word</span>
+          <span class="nav-tab-badge">300</span>
+        </button>
+        <button class="nav-tab-btn" data-tab="pdf" id="tab-nav-pdf">
+          <span>📚</span>
+          <span>File PDF</span>
+          <span class="nav-tab-badge">755</span>
+        </button>
+      </nav>
+
+      <!-- Actions: Search, Sound, Theme -->
+      <div class="header-actions">
+        <button class="icon-btn" id="btn-search-open" title="Tìm kiếm câu hỏi" aria-label="Tìm kiếm">
+          🔍
+        </button>
+        <button class="icon-btn" id="btn-sound-toggle" title="Bật/Tắt âm thanh" aria-label="Âm thanh">
+          🔊
+        </button>
+        <button class="icon-btn" id="btn-theme-toggle" title="Đổi giao diện Sáng/Tối" aria-label="Giao diện">
+          <span id="theme-icon">☀️</span>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- =========================================================================
+       Main Content Container
+       ========================================================================= -->
+  <main class="main-content">
+
+    <!-- TAB 0: HOME / DASHBOARD OVERVIEW -->
+    <section class="tab-view active" id="view-home">
+      <div class="hero-card">
+        <h1 class="hero-title">Ôn Thi Kinh Doanh Quốc Tế</h1>
+        <p class="hero-desc">
+          Hệ thống ngân hàng <strong>1,055 câu hỏi trắc nghiệm</strong> được chia thành <strong>31 bộ quiz</strong> chuẩn theo từng chương mục từ 2 bộ tài liệu Word và PDF. Sẵn sàng ôn luyện mọi lúc mọi nơi trên điện thoại và máy tính!
+        </p>
+        <div style="display: flex; gap: 0.75rem; flex-wrap: wrap;">
+          <button class="btn btn-primary" id="btn-quick-word">
+            ⚡ Luyện Nhanh Quiz 1 (File Word)
+          </button>
+          <button class="btn btn-secondary" id="btn-quick-exam">
+            ⏱ Đề Thi Thử 40 Câu Ngẫu Nhiên
+          </button>
+        </div>
+      </div>
+
+      <!-- Stats Grid -->
+      <div class="stats-grid">
+        <div class="stat-card">
+          <div class="stat-icon">🎯</div>
+          <div>
+            <div class="stat-value" id="stat-attempted">0</div>
+            <div class="stat-label">Câu đã làm</div>
+          </div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-icon">📊</div>
+          <div>
+            <div class="stat-value" id="stat-accuracy">0%</div>
+            <div class="stat-label">Độ chính xác</div>
+          </div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-icon">⭐</div>
+          <div>
+            <div class="stat-value" id="stat-bookmarks">0</div>
+            <div class="stat-label">Đã đánh dấu</div>
+          </div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-icon">🏆</div>
+          <div>
+            <div class="stat-value" id="stat-completed">0</div>
+            <div class="stat-label">Quiz hoàn thành</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Two Main Portals -->
+      <div class="section-header">
+        <h2 class="section-title">Chọn Nguồn Tài Liệu Ôn Tập</h2>
+      </div>
+
+      <div class="quiz-grid">
+        <div class="quiz-card" style="border-left: 4px solid var(--primary);">
+          <div>
+            <div class="quiz-card-header">
+              <span class="quiz-tag" style="background: var(--primary-light); color: var(--primary);">Tài Liệu 1</span>
+              <span class="quiz-meta-item">📝 300 câu</span>
+            </div>
+            <h3 class="quiz-card-title">Bộ Đề Tổng Hợp (File Word)</h3>
+            <p class="quiz-card-desc">
+              Bao quát 300 câu hỏi trắc nghiệm chia thành 7 bộ quiz theo từng chủ đề: Toàn cầu hóa, Văn hóa, Thương mại, Hội nhập khu vực, Chiến lược, Thâm nhập và Vận hành.
+            </p>
+          </div>
+          <div>
+            <button class="btn btn-primary btn-block" data-tab="word">
+              Khám Phá 7 Bộ Quiz Word →
+            </button>
+          </div>
+        </div>
+
+        <div class="quiz-card" style="border-left: 4px solid var(--secondary);">
+          <div>
+            <div class="quiz-card-header">
+              <span class="quiz-tag" style="background: rgba(6, 182, 212, 0.15); color: var(--secondary);">Tài Liệu 2</span>
+              <span class="quiz-meta-item">📝 755 câu</span>
+            </div>
+            <h3 class="quiz-card-title">Ngân Hàng 9 Chương (File PDF)</h3>
+            <p class="quiz-card-desc">
+              Bao quát 118 trang tài liệu với 755 câu hỏi chia thành 9 Chương và 24 Phần nhỏ, bám sát từng bài học lý thuyết kèm bảng đáp án chính thức.
+            </p>
+          </div>
+          <div>
+            <button class="btn btn-primary btn-block" data-tab="pdf" style="background: var(--secondary);">
+              Khám Phá 24 Phần Quiz PDF →
+            </button>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- TAB 1: FILE WORD (300 QUESTIONS, 7 QUIZZES) -->
+    <section class="tab-view" id="view-word">
+      <div class="section-header">
+        <div>
+          <h2 class="section-title">
+            <span>Bộ Đề Trắc Nghiệm Tổng Hợp</span>
+            <span class="section-title-badge">300 Câu • File Word</span>
+          </h2>
+          <p style="color: var(--text-muted); font-size: 0.9rem; margin-top: 0.25rem;">
+            Trích xuất từ file <code>att.8d8K8rB5aIFmEqzLSDW-OoyeOwmmeF7x0cwQQSoGrLo.docx</code>
+          </p>
+        </div>
+        <div>
+          <button class="btn btn-secondary" id="btn-word-all-300">
+            📚 Luyện Toàn Bộ 300 Câu
+          </button>
+        </div>
+      </div>
+
+      <div class="quiz-grid" id="word-quizzes-grid">
+        <!-- Rendered dynamically by JS -->
+      </div>
+    </section>
+
+    <!-- TAB 2: FILE PDF (755 QUESTIONS, 9 CHAPTERS, 24 QUIZZES) -->
+    <section class="tab-view" id="view-pdf">
+      <div class="section-header">
+        <div>
+          <h2 class="section-title">
+            <span>Ngân Hàng Câu Hỏi Theo 9 Chương</span>
+            <span class="section-title-badge">755 Câu • File PDF</span>
+          </h2>
+          <p style="color: var(--text-muted); font-size: 0.9rem; margin-top: 0.25rem;">
+            Trích xuất từ 118 trang tài liệu <code>TÀI LIỆU THI MÔN KDQT.pdf</code>, chia thành 24 bộ quiz riêng biệt.
+          </p>
+        </div>
+      </div>
+
+      <div id="pdf-chapters-container">
+        <!-- Rendered dynamically by JS -->
+      </div>
+    </section>
+
+    <!-- =======================================================================
+         QUIZ PLAYER VIEW (Active When Playing)
+         ======================================================================= -->
+    <section class="tab-view" id="view-quiz-player">
+      <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 1.25rem; flex-wrap: wrap; gap: 0.75rem;">
+        <div>
+          <button class="btn btn-secondary btn-sm" id="btn-exit-quiz">
+            ← Quay lại danh sách
+          </button>
+        </div>
+        <h2 id="quiz-active-title" style="font-size: 1.2rem; font-weight: 800;">Tên bài quiz</h2>
+        <div style="display: flex; gap: 0.5rem; align-items: center;">
+          <div class="timer-badge hidden" id="quiz-timer-badge">
+            <span>⏱</span>
+            <span id="quiz-timer-text">00:00</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="quiz-player-container active">
+        <!-- Left: Question & Options View -->
+        <div class="question-view">
+          <div class="question-top-bar">
+            <span class="question-index-tag" id="quiz-q-index">Câu 1 / 30</span>
+            <button class="btn btn-secondary btn-sm" id="btn-quiz-flag">
+              <span>☆</span> Lưu câu hỏi
+            </button>
+          </div>
+
+          <div class="question-text" id="quiz-q-text">
+            Nội dung câu hỏi đang được tải...
+          </div>
+
+          <div class="options-list" id="quiz-options-list">
+            <!-- Rendered dynamically by JS -->
+          </div>
+
+          <div class="explanation-box" id="quiz-explanation-box">
+            <div class="explanation-title">💡 Giải thích đáp án:</div>
+            <div class="explanation-text" id="quiz-explanation-text">...</div>
+          </div>
+
+          <div class="question-footer">
+            <button class="btn btn-secondary" id="btn-quiz-prev">
+              ← Câu trước
+            </button>
+            <button class="btn btn-primary" id="btn-quiz-next">
+              Câu tiếp →
+            </button>
+            <button class="btn btn-success" id="btn-quiz-submit">
+              Nộp bài
+            </button>
+          </div>
+        </div>
+
+        <!-- Right: Desktop Palette Grid -->
+        <aside class="quiz-sidebar">
+          <div class="palette-card">
+            <div class="palette-header">
+              <span class="palette-title">Bảng Câu Hỏi</span>
+            </div>
+            <div class="palette-grid" id="quiz-palette-grid">
+              <!-- Rendered dynamically by JS -->
+            </div>
+            <div class="palette-legend">
+              <div class="legend-item"><span class="legend-dot" style="background: var(--bg-surface-elevated); border: 1px solid var(--border-color);"></span> Chưa làm</div>
+              <div class="legend-item"><span class="legend-dot" style="background: var(--primary);"></span> Đã làm</div>
+              <div class="legend-item"><span class="legend-dot" style="background: var(--success);"></span> Đúng</div>
+              <div class="legend-item"><span class="legend-dot" style="background: var(--error);"></span> Sai</div>
+            </div>
+          </div>
+        </aside>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- =========================================================================
+       Mobile Bottom Fixed Bar (Only visible on Mobile < 1024px)
+       ========================================================================= -->
+  <div class="mobile-bottom-bar" id="mobile-quiz-bar">
+    <div class="mobile-bottom-bar-inner">
+      <button class="mobile-bar-btn" id="mobile-btn-prev">
+        <span>←</span>
+        <span>Trước</span>
+      </button>
+      <button class="mobile-bar-btn" id="mobile-btn-flag">
+        <span>☆</span>
+        <span>Lưu</span>
+      </button>
+      <button class="mobile-bar-btn" id="mobile-btn-palette">
+        <span>📋</span>
+        <span>Bảng câu</span>
+      </button>
+      <button class="mobile-bar-btn primary" id="mobile-btn-next">
+        <span>→</span>
+        <span>Tiếp</span>
+      </button>
+      <button class="mobile-bar-btn" id="mobile-btn-submit" style="color: var(--success); font-weight: 800;">
+        <span>✓</span>
+        <span>Nộp</span>
+      </button>
+    </div>
+  </div>
+
+  <!-- Mobile Question Palette Drawer (Bottom Sheet) -->
+  <div class="mobile-palette-drawer" id="mobile-palette-drawer">
+    <div class="mobile-palette-sheet">
+      <div class="drawer-drag-handle"></div>
+      <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1rem;">
+        <h3 style="font-weight: 800; font-size: 1.1rem;">Danh Sách Câu Hỏi</h3>
+        <button class="btn btn-secondary btn-sm" onclick="document.getElementById('mobile-palette-drawer').classList.remove('open')">
+          Đóng ✕
+        </button>
+      </div>
+      <div class="palette-grid" id="mobile-palette-grid">
+        <!-- Rendered dynamically by JS -->
+      </div>
+    </div>
+  </div>
+
+  <!-- =========================================================================
+       Results Modal (Bảng Tổng Kết Điểm Thi)
+       ========================================================================= -->
+  <div class="modal-overlay" id="results-modal">
+    <div class="modal-card">
+      <div class="modal-header">
+        <h3 class="modal-title">Kết Quả Bài Làm</h3>
+        <button class="close-btn" id="btn-close-results">✕</button>
+      </div>
+
+      <div class="score-circle-wrap">
+        <div class="score-big" id="res-score-big">85%</div>
+        <div class="score-subtitle" id="res-score-sub">Rất tốt! Đạt chuẩn thi môn KDQT.</div>
+      </div>
+
+      <div class="result-stats-row">
+        <div class="result-stat-box">
+          <div class="result-stat-num text-success" id="res-stat-correct">25 / 30</div>
+          <div class="result-stat-label">Câu Đúng</div>
+        </div>
+        <div class="result-stat-box">
+          <div class="result-stat-num text-error" id="res-stat-incorrect">5</div>
+          <div class="result-stat-label">Câu Sai</div>
+        </div>
+        <div class="result-stat-box">
+          <div class="result-stat-num text-primary" id="res-stat-time">12m 45s</div>
+          <div class="result-stat-label">Thời Gian</div>
+        </div>
+      </div>
+
+      <div class="modal-actions">
+        <button class="btn btn-secondary btn-block" id="btn-res-review">
+          🔍 Xem Lại Đáp Án
+        </button>
+        <button class="btn btn-warning btn-block" id="btn-res-retry-wrong">
+          ⚡ Ôn Lại Câu Sai
+        </button>
+        <button class="btn btn-primary btn-block" id="btn-res-restart">
+          🔄 Làm Lại
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- =========================================================================
+       Global Search Modal (Tìm Kiếm Trong 1,055 Câu Hỏi)
+       ========================================================================= -->
+  <div class="modal-overlay" id="search-modal">
+    <div class="modal-card" style="max-width: 750px;">
+      <div class="modal-header">
+        <h3 class="modal-title">Tìm Kiếm Câu Hỏi (1,055 Câu)</h3>
+        <button class="close-btn" id="btn-search-close">✕</button>
+      </div>
+
+      <div class="search-input-wrap">
+        <span class="search-icon">🔍</span>
+        <input type="text" class="search-input" id="search-input" placeholder="Gõ từ khóa câu hỏi (ví dụ: toàn cầu hóa, JIT, liên minh, tỷ giá)...">
+      </div>
+
+      <div class="search-results-list" id="search-results">
+        <!-- Rendered dynamically by JS -->
+      </div>
+    </div>
+  </div>
+
+  <!-- JavaScript Modules -->
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

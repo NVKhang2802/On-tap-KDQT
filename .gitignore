@@ -1,0 +1,28 @@
+# ==============================================================================
+# Git Ignore - KDQT Quiz Master
+# Chặn các file tài liệu cá nhân, file đề thi gốc và dữ liệu nhạy cảm
+# ==============================================================================
+
+# Tài liệu thi gốc (Personal Documents)
+*.docx
+*.pdf
+*.doc
+att.8d8K8rB5aIFmEqzLSDW-OoyeOwmmeF7x0cwQQSoGrLo.docx
+TÀI LIỆU THI MÔN KDQT.pdf
+
+
+# File script phân tích & trích xuất nội bộ
+analyze_pdf.py
+scripts/
+*.py
+__pycache__/
+
+# File hệ thống & IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+
+# Vercel build cache
+.vercel
