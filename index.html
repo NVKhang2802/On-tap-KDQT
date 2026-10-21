@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, user-scalable=yes, viewport-fit=cover">
   <title>KDQT Quiz Master - Ôn Thi Kinh Doanh Quốc Tế</title>
-  <meta name="description" content="Hệ thống ôn thi trắc nghiệm môn Kinh Doanh Quốc Tế với 1,055 câu hỏi trích từ 2 bộ tài liệu Word và PDF 9 chương, hỗ trợ thi thử và luyện tập đa nền tảng.">
+  <meta name="description" content="Hệ thống ôn thi trắc nghiệm môn Kinh Doanh Quốc Tế với 1,400 câu hỏi trích từ 4 bộ tài liệu Word, PDF 9 chương, Đề mới 48 câu và Bộ câu hỏi giáo trình 297 câu.">
   
   <!-- PWA & Mobile Meta Tags -->
   <meta name="apple-mobile-web-app-capable" content="yes">
@@ -58,6 +58,11 @@
           <span>Trắc Nghiệm</span>
           <span class="nav-tab-badge">48</span>
         </button>
+        <button class="nav-tab-btn" data-tab="giaotrinh" id="tab-nav-giaotrinh">
+          <span>📖</span>
+          <span>Giáo Trình</span>
+          <span class="nav-tab-badge">297</span>
+        </button>
       </nav>
 
       <!-- Actions: Search, Sound, Theme -->
@@ -85,7 +90,7 @@
       <div class="hero-card">
         <h1 class="hero-title">Ôn Thi Kinh Doanh Quốc Tế</h1>
         <p class="hero-desc">
-          Hệ thống ngân hàng <strong>1,103 câu hỏi trắc nghiệm</strong> được chia thành <strong>37 bộ quiz</strong> chuẩn theo từng chương mục từ 3 bộ tài liệu (Word 300 câu, PDF 755 câu và PDF Trắc nghiệm 48 câu). Sẵn sàng ôn luyện mọi lúc mọi nơi trên điện thoại và máy tính!
+          Hệ thống ngân hàng <strong>1,400 câu hỏi trắc nghiệm</strong> được chia thành <strong>46 bộ quiz</strong> chuẩn theo từng chương mục từ 4 bộ tài liệu (Word 300 câu, PDF 755 câu, Đề mới 48 câu và Giáo trình 297 câu). Sẵn sàng ôn luyện mọi lúc mọi nơi trên điện thoại và máy tính!
         </p>
         <div style="display: flex; gap: 0.75rem; flex-wrap: wrap;">
           <button class="btn btn-primary" id="btn-quick-word">
@@ -93,6 +98,9 @@
           </button>
           <button class="btn btn-primary" id="btn-quick-tracnghiem" style="background: var(--accent); color: #1e1e2d; font-weight: 700;">
             🎯 Luyện Đề Mới (48 Câu)
+          </button>
+          <button class="btn btn-primary" id="btn-quick-giaotrinh" style="background: #10b981; color: white; font-weight: 700;">
+            📖 Luyện Giáo Trình (Chương 1)
           </button>
           <button class="btn btn-secondary" id="btn-quick-exam">
             ⏱ Đề Thi Thử 40 Câu Ngẫu Nhiên
@@ -191,6 +199,24 @@
             </button>
           </div>
         </div>
+
+        <div class="quiz-card" style="border-left: 4px solid #10b981;">
+          <div>
+            <div class="quiz-card-header">
+              <span class="quiz-tag" style="background: rgba(16, 185, 129, 0.15); color: #10b981;">Tài Liệu 4 Chuẩn</span>
+              <span class="quiz-meta-item">📝 297 câu</span>
+            </div>
+            <h3 class="quiz-card-title">Bộ Đề Theo Giáo Trình Chuẩn (9 Chương)</h3>
+            <p class="quiz-card-desc">
+              Bao quát toàn bộ 9 chương học phần chuẩn với 297 câu hỏi trắc nghiệm, 100% có đáp án kèm giải thích và số trang sách cụ thể để đối chiếu trực tiếp.
+            </p>
+          </div>
+          <div>
+            <button class="btn btn-primary btn-block" data-tab="giaotrinh" style="background: #10b981; color: white; font-weight: 700;">
+              Khám Phá 9 Chương Giáo Trình →
+            </button>
+          </div>
+        </div>
       </div>
     </section>
 
@@ -260,6 +286,33 @@
       </div>
 
       <div class="quiz-grid" id="tracnghiem-quizzes-grid">
+        <!-- Rendered dynamically by JS -->
+      </div>
+    </section>
+
+    <!-- TAB 4: GIÁO TRÌNH (297 QUESTIONS, 9 CHAPTERS) -->
+    <section class="tab-view" id="view-giaotrinh">
+      <div class="section-header" style="justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 1rem;">
+        <div>
+          <h2 class="section-title">
+            <span>Trắc Nghiệm Ôn Thi Theo Giáo Trình</span>
+            <span class="section-title-badge" style="background: rgba(16, 185, 129, 0.15); color: #10b981; border-color: rgba(16, 185, 129, 0.3);">297 Câu • 9 Chương Chuẩn</span>
+          </h2>
+          <p style="color: var(--text-muted); font-size: 0.9rem; margin-top: 0.25rem;">
+            Trích xuất từ tài liệu <code>Trắc nghiệm ôn thi KDQT theo giáo trình.pdf</code> với 100% đáp án, lời giải thích và số trang sách đối chiếu.
+          </p>
+        </div>
+        <div style="display: flex; gap: 0.5rem; flex-wrap: wrap;">
+          <button class="btn btn-primary btn-sm" id="btn-giaotrinh-all-297" style="background: #10b981; color: white; font-weight: 700;">
+            ⚡ Luyện Toàn Bộ 297 Câu
+          </button>
+          <button class="btn btn-secondary btn-sm" id="btn-giaotrinh-exam-40">
+            ⏱ Thi Thử 40 Câu (40 Phút)
+          </button>
+        </div>
+      </div>
+
+      <div class="quiz-grid" id="giaotrinh-quizzes-grid">
         <!-- Rendered dynamically by JS -->
       </div>
     </section>
@@ -435,7 +488,7 @@
   <div class="modal-overlay" id="search-modal">
     <div class="modal-card" style="max-width: 750px;">
       <div class="modal-header">
-        <h3 class="modal-title">Tìm Kiếm Câu Hỏi (1,055 Câu)</h3>
+        <h3 class="modal-title">Tìm Kiếm Câu Hỏi (1,400 Câu)</h3>
         <button class="close-btn" id="btn-search-close">✕</button>
       </div>
 

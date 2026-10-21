@@ -11,8 +11,9 @@ class AppController {
     this.wordData = null;
     this.pdfData = null;
     this.tracNghiemData = null;
+    this.giaoTrinhData = null;
     this.allQuestions = [];
-    this.activeTab = 'home'; // 'home', 'word', 'pdf', 'tracnghiem', 'quiz', 'bookmarks'
+    this.activeTab = 'home'; // 'home', 'word', 'pdf', 'tracnghiem', 'giaotrinh', 'quiz', 'bookmarks'
   }
 
   async init() {
@@ -24,6 +25,7 @@ class AppController {
     this.renderWordPage();
     this.renderPDFPage();
     this.renderTracNghiemPage();
+    this.renderGiaoTrinhPage();
     this.bindGlobalEvents();
   }
 
@@ -96,24 +98,27 @@ class AppController {
 
   async loadData() {
     try {
-      const [resWord, resPdf, resTn] = await Promise.all([
+      const [resWord, resPdf, resTn, resGt] = await Promise.all([
         fetch('data/word_quizzes.json?v=20261021_v2'),
         fetch('data/pdf_quizzes.json?v=20261021_v2'),
-        fetch('data/tracnghiem_quizzes.json?v=20261021_v2')
+        fetch('data/tracnghiem_quizzes.json?v=20261021_v2'),
+        fetch('data/giaotrinh_quizzes.json?v=20261021_v2')
       ]);
 
       this.wordData = await resWord.json();
       this.pdfData = await resPdf.json();
       this.tracNghiemData = await resTn.json();
+      this.giaoTrinhData = await resGt.json();
 
       // Collect all questions for global search
       this.allQuestions = [
         ...this.wordData.allQuestions.map(q => ({ ...q, source: 'Word (300 câu)' })),
         ...this.pdfData.quizzes.flatMap(qz => qz.questions.map(q => ({ ...q, source: `PDF (${qz.chapterTitle})` }))),
-        ...this.tracNghiemData.allQuestions.map(q => ({ ...q, source: 'Trắc Nghiệm KDQT (48 câu)' }))
+        ...this.tracNghiemData.allQuestions.map(q => ({ ...q, source: 'Trắc Nghiệm KDQT (48 câu)' })),
+        ...this.giaoTrinhData.allQuestions.map(q => ({ ...q, source: `Giáo Trình (Chương ${q.chapterNumber})` }))
       ];
 
-      console.log(`Loaded ${this.allQuestions.length} questions successfully across 3 sources!`);
+      console.log(`Loaded ${this.allQuestions.length} questions successfully across 4 sources!`);
     } catch (err) {
       console.error('Failed to load JSON data:', err);
     }
@@ -242,6 +247,16 @@ class AppController {
         sound.playClick();
         if (this.tracNghiemData?.quizzes?.length) {
           this.startQuizById(this.tracNghiemData.quizzes[0].id, 'practice');
+        }
+      };
+    }
+
+    const quickGtBtn = document.getElementById('btn-quick-giaotrinh');
+    if (quickGtBtn) {
+      quickGtBtn.onclick = () => {
+        sound.playClick();
+        if (this.giaoTrinhData?.quizzes?.length) {
+          this.startQuizById(this.giaoTrinhData.quizzes[0].id, 'practice');
         }
       };
     }
@@ -467,6 +482,82 @@ class AppController {
     }
   }
 
+  renderGiaoTrinhPage() {
+    const container = document.getElementById('giaotrinh-quizzes-grid');
+    if (!container || !this.giaoTrinhData) return;
+
+    container.innerHTML = '';
+    this.giaoTrinhData.quizzes.forEach(quiz => {
+      const card = document.createElement('div');
+      card.className = 'quiz-card';
+      card.style.borderLeft = '4px solid #10b981';
+      card.innerHTML = `
+        <div>
+          <div class="quiz-card-header">
+            <span class="quiz-tag" style="background: rgba(16, 185, 129, 0.15); color: #10b981;">Chương ${quiz.chapterNumber}</span>
+            <span class="quiz-meta-item">📝 ${quiz.questionCount} câu</span>
+          </div>
+          <h3 class="quiz-card-title">${quiz.title}</h3>
+          <p class="quiz-card-desc">${quiz.description}</p>
+          <div style="font-size: 0.825rem; color: #10b981; font-weight: 600; margin-top: 0.6rem; display: flex; align-items: center; gap: 0.35rem;">
+            <span>📖</span> Tham chiếu: ${quiz.bookPages}
+          </div>
+        </div>
+        <div>
+          <div class="quiz-card-actions" style="margin-top: 1rem;">
+            <button class="btn btn-primary btn-sm btn-block" data-action="practice" data-id="${quiz.id}" style="background: #10b981; color: white; font-weight: 700;">
+              ▶ Luyện tập
+            </button>
+            <button class="btn btn-secondary btn-sm btn-block" data-action="exam" data-id="${quiz.id}">
+              ⏱ Thi thử
+            </button>
+          </div>
+        </div>
+      `;
+
+      card.querySelector('[data-action="practice"]').addEventListener('click', () => {
+        sound.playClick();
+        this.startQuizById(quiz.id, 'practice');
+      });
+
+      card.querySelector('[data-action="exam"]').addEventListener('click', () => {
+        sound.playClick();
+        this.startQuizById(quiz.id, 'exam');
+      });
+
+      container.appendChild(card);
+    });
+
+    // Button to practice all 297 questions
+    const btnAllGT = document.getElementById('btn-giaotrinh-all-297');
+    if (btnAllGT) {
+      btnAllGT.onclick = () => {
+        sound.playClick();
+        const fullQuiz = {
+          id: 'giaotrinh_all_297',
+          title: 'Toàn Bộ 297 Câu Trắc Nghiệm Theo Giáo Trình',
+          questions: this.giaoTrinhData.allQuestions
+        };
+        this.openQuizPlayer(fullQuiz, 'practice');
+      };
+    }
+
+    // Button to exam 40 questions from all 297
+    const btnExamGT = document.getElementById('btn-giaotrinh-exam-40');
+    if (btnExamGT) {
+      btnExamGT.onclick = () => {
+        sound.playClick();
+        const shuffled = [...this.giaoTrinhData.allQuestions].sort(() => 0.5 - Math.random()).slice(0, 40);
+        const examQuiz = {
+          id: 'giaotrinh_exam_40',
+          title: 'Đề Thi Thử 40 Câu Theo Giáo Trình (40 Phút)',
+          questions: shuffled
+        };
+        this.openQuizPlayer(examQuiz, 'exam', 40);
+      };
+    }
+  }
+
   startQuizById(quizId, mode) {
     // Search in word quizzes
     let found = this.wordData?.quizzes.find(q => q.id === quizId);
@@ -474,9 +565,13 @@ class AppController {
       // Search in pdf quizzes
       found = this.pdfData?.quizzes.find(q => q.id === quizId);
     }
+    // Search in tracnghiem quizzes
     if (!found) {
-      // Search in tracnghiem quizzes
       found = this.tracNghiemData?.quizzes.find(q => q.id === quizId);
+    }
+    if (!found) {
+      // Search in giaotrinh quizzes
+      found = this.giaoTrinhData?.quizzes.find(q => q.id === quizId);
     }
 
     if (found) {
@@ -508,7 +603,7 @@ class AppController {
     if (!resultsContainer) return;
 
     if (!query) {
-      resultsContainer.innerHTML = '<p class="text-muted text-center" style="padding: 2rem 0;">Nhập từ khóa bất kỳ (ví dụ: toàn cầu hóa, JIT, liên minh, tỷ giá) để tìm kiếm trong 1,055 câu hỏi...</p>';
+      resultsContainer.innerHTML = '<p class="text-muted text-center" style="padding: 2rem 0;">Nhập từ khóa bất kỳ (ví dụ: toàn cầu hóa, JIT, liên minh, tỷ giá, logistics)...</p>';
       return;
     }
 
