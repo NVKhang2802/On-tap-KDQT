@@ -111,7 +111,11 @@ class QuizEngine {
 
     // Question index tag & title
     if (this.dom.questionIndexTag) {
-      this.dom.questionIndexTag.textContent = `Câu ${this.currentIndex + 1} / ${this.questions.length}`;
+      if (q.num && q.num !== (this.currentIndex + 1)) {
+        this.dom.questionIndexTag.textContent = `Câu ${this.currentIndex + 1} / ${this.questions.length} (Gốc: Câu ${q.num})`;
+      } else {
+        this.dom.questionIndexTag.textContent = `Câu ${this.currentIndex + 1} / ${this.questions.length}`;
+      }
     }
     if (this.dom.questionText) {
       this.dom.questionText.textContent = q.question;

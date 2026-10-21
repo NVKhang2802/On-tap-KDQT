@@ -6,7 +6,7 @@
   "quizzes": [
     {
       "id": "quiz_w1",
-      "title": "Quiz 1: Toàn Cầu Hóa & Thể Chế Chính Trị - Pháp Lý",
+      "title": "Quiz 1: Toàn Cầu Hóa & Thể Chế Chính Trị - Pháp Lý (Câu 1 - 30)",
       "description": "Bao quát khái niệm toàn cầu hóa, rủi ro chính trị và các hệ thống pháp lý quốc tế.",
       "questionCount": 30,
       "questions": [
@@ -434,7 +434,7 @@
     },
     {
       "id": "quiz_w2",
-      "title": "Quiz 2: Văn Hóa & Đạo Đức Kinh Doanh Quốc Tế",
+      "title": "Quiz 2: Văn Hóa & Đạo Đức Kinh Doanh Quốc Tế (Câu 31 - 75)",
       "description": "Các chiều văn hóa Hofstede, chuẩn mực đạo đức, tôn giáo và trách nhiệm xã hội.",
       "questionCount": 45,
       "questions": [
@@ -1072,7 +1072,7 @@
     },
     {
       "id": "quiz_w3",
-      "title": "Quiz 3: Lý Thuyết Thương Mại & Chính Sách Thương Mại",
+      "title": "Quiz 3: Lý Thuyết Thương Mại & Chính Sách Thương Mại (Câu 76 - 120)",
       "description": "Lợi thế tuyệt đối, tương đối, Heckshler-Ohlin, vòng đời sản phẩm và rào cản mậu dịch.",
       "questionCount": 45,
       "questions": [
@@ -1233,16 +1233,16 @@
         {
           "id": "w_87",
           "num": 87,
-          "question": "giống câu 79",
+          "question": "Các nền văn hóa khác nhau là do có sự khác nhau về các điều nào sau đây, ngoại trừ: (Tương tự câu 79)",
           "options": [
-            "Phương án A",
-            "Phương án B",
-            "Phương án C",
-            "Phương án D"
+            "Giáo dục, ngôn ngữ, tôn giáo",
+            "Cấu trúc xã hội, triết lý kinh tế và chính trị",
+            "Màu da, ngôn ngữ, giáo dục",
+            "Tôn giáo, sự phân tầng xã hội, triết lý kinh tế"
           ],
-          "correctIndex": 3,
-          "correctAnswer": "D",
-          "explanation": "Đáp án chuẩn học thuật chuyên ngành Kinh Doanh Quốc Tế."
+          "correctIndex": 2,
+          "correctAnswer": "C",
+          "explanation": "Đáp án tương ứng câu 79."
         },
         {
           "id": "w_88",
@@ -1710,7 +1710,7 @@
     },
     {
       "id": "quiz_w4",
-      "title": "Quiz 4: Hội Nhập Kinh Tế Khu Vực & Hệ Thống Tiền Tệ",
+      "title": "Quiz 4: Hội Nhập Kinh Tế Khu Vực & Hệ Thống Tiền Tệ (Câu 121 - 174)",
       "description": "Các cấp độ hội nhập (FTA, CU, CM, EU, ASEAN), tỷ giá và thị trường ngoại hối.",
       "questionCount": 54,
       "questions": [
@@ -2095,16 +2095,16 @@
         {
           "id": "w_148",
           "num": 148,
-          "question": "Tương tự 147",
+          "question": "Điều nào sau đây làm cho một công ty lựa chọn phương án thiết lập và vận hành mới hoàn toàn hơn là mua bán và sáp nhập khi đầu tư trực tiếp ra nước ngoài? (Tương tự câu 147)",
           "options": [
-            "Phương án A",
-            "Phương án B",
-            "Phương án C",
-            "Phương án D"
+            "Chính sách của chính phủ nước sở tại không khuyến khích đầu tư nước ngoài",
+            "Không có sự xung đột lớn về văn hóa và tổ chức giữa công ty đi đầu tư và công ty được mua lại",
+            "Công ty đầu tư chưa thông hiểu địa phương và mất rất nhiều thời gian để hoàn tất thủ tục đầu tư mới",
+            "Việc truyền tải các yếu tố tạo ra lợi thế cạnh tranh như quy định, văn hóa, tổ chức của công ty đầu tư sang một công ty khác là rất khó khăn"
           ],
-          "correctIndex": 0,
-          "correctAnswer": "A",
-          "explanation": "Đáp án chuẩn học thuật chuyên ngành Kinh Doanh Quốc Tế."
+          "correctIndex": 3,
+          "correctAnswer": "D",
+          "explanation": "Đáp án tương ứng câu 147."
         },
         {
           "id": "w_149",
@@ -2474,7 +2474,7 @@
     },
     {
       "id": "quiz_w5",
-      "title": "Quiz 5: Chiến Lược & Cấu Trúc Tổ Chức Đa Quốc Gia",
+      "title": "Quiz 5: Chiến Lược & Cấu Trúc Tổ Chức Đa Quốc Gia (Câu 175 - 220)",
       "description": "Chiến lược toàn cầu, quốc tế, xuyên quốc gia, cấu trúc ma trận và kiểm soát.",
       "questionCount": 46,
       "questions": [
@@ -3126,7 +3126,7 @@
     },
     {
       "id": "quiz_w6",
-      "title": "Quiz 6: Phương Thức Thâm Nhập & Chuỗi Giá Trị Toàn Cầu",
+      "title": "Quiz 6: Phương Thức Thâm Nhập & Chuỗi Giá Trị Toàn Cầu (Câu 221 - 270)",
       "description": "FDI, xuất khẩu, nhượng quyền, cấp phép, liên doanh và quyết định địa điểm sản xuất.",
       "questionCount": 50,
       "questions": [
@@ -3834,7 +3834,7 @@
     },
     {
       "id": "quiz_w7",
-      "title": "Quiz 7: Vận Hành, Logistics & Quản Trị Tài Chính Quốc Tế",
+      "title": "Quiz 7: Vận Hành, Logistics & Quản Trị Tài Chính Quốc Tế (Câu 271 - 300)",
       "description": "Hệ thống tồn kho JIT, chuỗi cung ứng, dự thảo ngân sách vốn và chuyển giá.",
       "questionCount": 30,
       "questions": [
@@ -5469,16 +5469,16 @@
     {
       "id": "w_87",
       "num": 87,
-      "question": "giống câu 79",
+      "question": "Các nền văn hóa khác nhau là do có sự khác nhau về các điều nào sau đây, ngoại trừ: (Tương tự câu 79)",
       "options": [
-        "Phương án A",
-        "Phương án B",
-        "Phương án C",
-        "Phương án D"
+        "Giáo dục, ngôn ngữ, tôn giáo",
+        "Cấu trúc xã hội, triết lý kinh tế và chính trị",
+        "Màu da, ngôn ngữ, giáo dục",
+        "Tôn giáo, sự phân tầng xã hội, triết lý kinh tế"
       ],
-      "correctIndex": 3,
-      "correctAnswer": "D",
-      "explanation": "Đáp án chuẩn học thuật chuyên ngành Kinh Doanh Quốc Tế."
+      "correctIndex": 2,
+      "correctAnswer": "C",
+      "explanation": "Đáp án tương ứng câu 79."
     },
     {
       "id": "w_88",
@@ -6323,16 +6323,16 @@
     {
       "id": "w_148",
       "num": 148,
-      "question": "Tương tự 147",
+      "question": "Điều nào sau đây làm cho một công ty lựa chọn phương án thiết lập và vận hành mới hoàn toàn hơn là mua bán và sáp nhập khi đầu tư trực tiếp ra nước ngoài? (Tương tự câu 147)",
       "options": [
-        "Phương án A",
-        "Phương án B",
-        "Phương án C",
-        "Phương án D"
+        "Chính sách của chính phủ nước sở tại không khuyến khích đầu tư nước ngoài",
+        "Không có sự xung đột lớn về văn hóa và tổ chức giữa công ty đi đầu tư và công ty được mua lại",
+        "Công ty đầu tư chưa thông hiểu địa phương và mất rất nhiều thời gian để hoàn tất thủ tục đầu tư mới",
+        "Việc truyền tải các yếu tố tạo ra lợi thế cạnh tranh như quy định, văn hóa, tổ chức của công ty đầu tư sang một công ty khác là rất khó khăn"
       ],
-      "correctIndex": 0,
-      "correctAnswer": "A",
-      "explanation": "Đáp án chuẩn học thuật chuyên ngành Kinh Doanh Quốc Tế."
+      "correctIndex": 3,
+      "correctAnswer": "D",
+      "explanation": "Đáp án tương ứng câu 147."
     },
     {
       "id": "w_149",

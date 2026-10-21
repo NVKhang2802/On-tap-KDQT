@@ -95,8 +95,8 @@ class AppController {
   async loadData() {
     try {
       const [resWord, resPdf] = await Promise.all([
-        fetch('data/word_quizzes.json'),
-        fetch('data/pdf_quizzes.json')
+        fetch('data/word_quizzes.json?v=20261021_v2'),
+        fetch('data/pdf_quizzes.json?v=20261021_v2')
       ]);
 
       this.wordData = await resWord.json();
